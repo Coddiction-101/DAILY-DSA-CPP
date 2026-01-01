@@ -18,6 +18,6 @@ Starting January 1, 2026 — committing to solving at least one DSA problem ever
 
 | Day | Date | Problem | Topics | Link |
 | --- | --- | --- | --- | --- |
-| 1 | 2026-01-01 | 2 Sum | Arrays, Hashing |https://leetcode.com/problems/two-sum/description/|
+| 1 | 2026-01-01 | 2Sum | Arrays, Hashing |https://leetcode.com/problems/two-sum/description/|
 
 More coming daily!
