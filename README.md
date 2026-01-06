@@ -16,13 +16,13 @@ Starting January 1, 2026 — committing to solving at least one DSA problem ever
 
 ## Daily Solutions
 
-| Day | Date | Problem | Topics | Link |
-| --- | --- | --- | --- | --- |
-| 1 | 1/1 | 2Sum | Arrays, Hashing |https://leetcode.com/problems/two-sum/description/|
-| 2 | 2-1 | Best Time to Buy and Sell Stock | Arrays, DP | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/|
-| 3 | 3-1 | Contain Duplicate | Arrays, Hashing | https://leetcode.com/problems/contains-duplicate/description/|
-| 4 | 4-1 | Maximum Subarray Sum | Array,DP | https://leetcode.com/problems/maximum-subarray/description/|
-| 5 | 5-1 | Product of Array Except Self | Array, Prefix Sum | https://leetcode.com/problems/product-of-array-except-self/description/|
+| Day | Date | Problem | Topics      | Link |
+| --- | ---- | --------| ----------- | ---- |
+|  1  | 1/1 | 2Sum                            | Arrays, Hashing |https://leetcode.com/problems/two-sum/description/|
+|  2  | 2-1 | Best Time to Buy and Sell Stock | Arrays, DP | https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/|
+|  3  | 3-1 | Contain Duplicate               | Arrays, Hashing | https://leetcode.com/problems/contains-duplicate/description/|
+|  4  | 4-1 | Maximum Subarray Sum            | Array,DP | https://leetcode.com/problems/maximum-subarray/description/|
+|  6  | 5-1 | Product of Array Except Self    | Array, Two pointer | https://leetcode.com/problems/move-zeroes/description/|
 
 
 More coming daily!
