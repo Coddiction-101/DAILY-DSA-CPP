@@ -4,12 +4,13 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 ---
 
-## 🎯 Goal
+🎯 Goals
 
-* Build strong problem-solving skills
-* Master **Data Structures & Algorithms**
-* Fill up that GitHub heatmap 💚
-* Share progress publicly on **LinkedIn & X**
+- Build interview-ready problem-solving skills by solving curated DSA problems daily
+- Master core Data Structures & Algorithms used in real technical interviews
+- Maintain a clean and consistent GitHub portfolio that reflects discipline and growth
+- Develop a public learning brand by sharing progress on LinkedIn & X
+- Become internship-ready for software engineering roles through consistent practice
 
 ---
 
