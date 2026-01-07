@@ -16,8 +16,8 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 ## 📊 Progress
 
-* **Current Streak:** 6 days
-* **Problems Solved:** 6
+* **Current Streak:** 7 days
+* **Problems Solved:** 7
 
 ---
 
@@ -39,4 +39,4 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 👉 **Main Repo:** [https://github.com/Coddiction-101/DAILY-DSA-CPP](https://github.com/Coddiction-101/DAILY-DSA-CPP)
 Keep shipping.
-Day 7 loading… 💪🔥
+Day 8 loading… 💪🔥
