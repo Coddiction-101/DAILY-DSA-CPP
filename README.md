@@ -32,7 +32,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 5   | 5/1  | Product of Array Except Self    | Arrays, Prefix/Suffix | [https://leetcode.com/problems/product-of-array-except-self/description/](https://leetcode.com/problems/product-of-array-except-self/description/)       |
 | 6   | 6/1  | Move Zeroes                     | Arrays, Two Pointers  | [https://leetcode.com/problems/move-zeroes/description/](https://leetcode.com/problems/move-zeroes/description/)                                         |
 | 7   | 7/1  | Rotate Array                    | Arrays, Math, Two Pointers  | [https://leetcode.com/problems/move-zeroes/description/](https://leetcode.com/problems/move-zeroes/description/)                                   |
-| 8   | 7/1  | Rotate Array                    | Arrays, Math, Two Pointers  | [https://leetcode.com/problems/move-zeroes/description/](https://leetcode.com/problems/move-zeroes/description/)                                   |
+| 8   | 7/1  | Jump Game                       | Arrays, Greedy  | https://leetcode.com/problems/jump-game/description/ |
 
 ---
 
