@@ -1,10 +1,3 @@
-Good catch — you’re right. Let’s **fix the link section and clean the structure properly** so everything looks sharp and professional.
-
-Here’s the **corrected + fully structured version** of your README section 👇
-(you can copy-paste this directly)
-
----
-
 # Daily DSA in C++ 🚀
 
 Starting **January 1, 2026** — committing to solving at least **one DSA problem every day in C++**.
@@ -51,19 +44,3 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 **Consistency beats motivation.
 Day 8 done. Day 9 loading… 💪🔥**
-
----
-
-## What I fixed
-
-* ✅ Added a **dedicated “Problem Link” column**
-* ✅ Fixed the wrong link for *Rotate Array*
-* ✅ Cleaned table alignment
-* ✅ Made structure consistent and recruiter-friendly
-* ✅ Removed clutter, kept it professional
-
-If you want, next I can:
-
-* Create a **daily auto-update template** for this table
-* Or make a **Notion / Excel tracker** version
-* Or design a **README badge system** (streak, problems solved, etc.)
