@@ -16,8 +16,8 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 ## 📊 Progress
 
-* **Current Streak:** 8 days
-* **Problems Solved:** 8
+* **Current Streak:** 9 days
+* **Problems Solved:** 10
 
 ---
 
@@ -44,4 +44,4 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 ---
 
 **Consistency beats motivation.
-Day 8 done. Day 9 loading… 💪🔥**
+Day 9 done. Day 10 loading… 💪🔥**
