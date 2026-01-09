@@ -36,7 +36,7 @@ int main()
 }
 
 --- 
-🔢 Problem: Maximum Product Subarray (LeetCode 152)
+```🔢 Problem: Maximum Product Subarray (LeetCode 152)
 Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest product, and return that product.
 
 Example:
@@ -80,6 +80,6 @@ Space: O(1) - only a few variables
 
 📌 Key Takeaway
 When dealing with product of subarrays, always consider that a very negative product can become the maximum when multiplied by a negative number.
-So, track both max and min ending at each position.
+So, track both max and min ending at each position.```
     
 ---
