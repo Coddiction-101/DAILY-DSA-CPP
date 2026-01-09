@@ -58,40 +58,25 @@ So, we can’t just track the max — we must also track the min product ending 
 At each index i, maintain:
 
 max_ending_here: max product of subarray ending at i
-
 min_ending_here: min product of subarray ending at i
 
 Because:
 
 min_ending_here * nums[i] can become the new maximum if nums[i] is negative.
-
 max_ending_here * nums[i] can become the new maximum if nums[i] is positive.
-
 We can always start fresh: nums[i] itself.
 
 Update:
-
 cpp
 new_max = max({nums[i], prev_max * nums[i], prev_min * nums[i]});
 new_min = min({nums[i], prev_max * nums[i], prev_min * nums[i]});
 Then update the global answer:
-
 cpp
 global_max = max(global_max, new_max);
-⏱️ Complexity
-Time: 
-O
-(
-n
-)
-O(n) — single pass
 
-Space: 
-O
-(
-1
-)
-O(1) — only a few variables
+⏱️ Complexity
+Time: O(n) — single pass
+Space: O(1) - only a few variables
 
 📌 Key Takeaway
 When dealing with product of subarrays, always consider that a very negative product can become the maximum when multiplied by a negative number.
