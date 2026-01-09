@@ -33,7 +33,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 6   | 6/1  | Move Zeroes                     | Arrays, Two Pointers       | [https://leetcode.com/problems/move-zeroes/description/](https://leetcode.com/problems/move-zeroes/description/)                                         |
 | 7   | 7/1  | Rotate Array                    | Arrays, Math, Two Pointers | [https://leetcode.com/problems/rotate-array/description/](https://leetcode.com/problems/rotate-array/description/)                                       |
 | 8   | 8/1  | Jump Game                       | Arrays, Greedy             | [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/)                                             |
-| 8   | 8/1  | Jump Game                       | Arrays, Greedy             | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/maximum-product-subarray/description/)                                             |
+| 9   | 9/1  | Maximum Product Subarray        | Arrays, DP                 | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/maximum-product-subarray/description/)                                             |
 
 ---
 
