@@ -16,7 +16,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 ## 📊 Progress
 
-* **Current Streak:** 9 days
+* **Current Streak:** 10 days
 * **Problems Solved:** 10
 
 ---
