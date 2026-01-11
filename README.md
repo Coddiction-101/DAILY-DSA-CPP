@@ -34,7 +34,8 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 7   | 7/1  | Rotate Array                    | Arrays, Math, Two Pointers | [https://leetcode.com/problems/rotate-array/description/](https://leetcode.com/problems/rotate-array/description/)                                       |
 | 8   | 8/1  | Jump Game                       | Arrays, Greedy             | [https://leetcode.com/problems/jump-game/description/](https://leetcode.com/problems/jump-game/description/)                                             |
 | 9   | 9/1  | Maximum Product Subarray        | Arrays, DP                 | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/maximum-product-subarray/description/)               |
-| 10   | 10/1  | Merge Intervals                 | Arrays, Sorting            | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/merge-intervals/description//)                       |
+| 10  | 10/1  | Merge Intervals                | Arrays, Sorting            | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/merge-intervals/description//)                       |
+| 11  | 11/1  | Candy                          | Arrays, Sorting            | [https://leetcode.com/problems/Candy/description/](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)                   |
 
 ---
 
