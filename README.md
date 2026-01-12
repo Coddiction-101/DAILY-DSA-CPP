@@ -36,6 +36,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 9   | 9/1  | Maximum Product Subarray        | Arrays, DP                 | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/maximum-product-subarray/description/)               |
 | 10  | 10/1  | Merge Intervals                | Arrays, Sorting            | [https://leetcode.com/problems/maximum-product-subarray/description/](https://leetcode.com/problems/merge-intervals/description//)                       |
 | 11  | 11/1  | Candy                          | Arrays, Sorting            | [https://leetcode.com/problems/Candy/description/](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)                   |
+| 12  | 11/1  | Candy                          | Arrays, Sorting            | [https://leetcode.com/problems/Candy/description/](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)                   |
 
 ---
 
