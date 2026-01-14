@@ -38,7 +38,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 11  | 11/1  | Candy                           | Arrays, Greedy             | [https://leetcode.com/problems/candy/description/](https://leetcode.com/problems/candy/description/)                                                     |
 | 12  | 12/1  | Missing Number                  | Arrays, Math, Bit Manipulation | [https://leetcode.com/problems/missing-number/description/](https://leetcode.com/problems/missing-number/description/)                               |
 | 13  | 13/1  | Remove Element                  | Arrays, Two Pointers       | [https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)                                   |
-| 14  | 14/1  | Add Digits                      | Math, Number Theory, Simul. | [https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)                                  |
+| 14  | 14/1  | Add Digits                      | Math, Number Theory, Simulation | [https://leetcode.com/problems/add-digits/description/](https://leetcode.com/problems/add-digits/description/)                                      |
 
 ---
 
