@@ -16,8 +16,8 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 ## 📊 Progress
 
-* **Current Streak:** 16 days
-* **Problems Solved:** 16
+* **Current Streak:** 17 days
+* **Problems Solved:** 17
 
 ## 📚 Daily Solutions
 
@@ -36,12 +36,12 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 11  | 11/1  | Candy                           | Arrays, Greedy                   | [https://leetcode.com/problems/candy/description/](https://leetcode.com/problems/candy/description/)                                                     |
 | 12  | 12/1  | Missing Number                  | Arrays, Math, Bit Manipulation   | [https://leetcode.com/problems/missing-number/description/](https://leetcode.com/problems/missing-number/description/)                                   |
 | 13  | 13/1  | Remove Element                  | Arrays, Two Pointers             | [https://leetcode.com/problems/remove-element/description/](https://leetcode.com/problems/remove-element/description/)                                   |
-| 14  | 14/1  | Add Digits                      | Math, Number Theory, Simulation  |  [https://leetcode.com/problems/add-digits/description/](https://leetcode.com/problems/add-digits/description/)                                          |
+| 14  | 14/1  | Add Digits                      | Math, Number Theory, Simulation  | [https://leetcode.com/problems/add-digits/description/](https://leetcode.com/problems/add-digits/description/)                                          |
 | 15  | 15/1  | Valid Anagram                   | Hashtable, String, Sorting       | [https://leetcode.com/problems/valid-anagram/description/](https://leetcode.com/problems/valid-anagram/description/)                                     |
-| 17  | 17/1  | Group Anagrams                  | Array Hash Table String Sorting  | [https://leetcode.com/problems/group-anagrams/description//](https://leetcode.com/problems/group-anagrams/description//)                                 |  
+| 16  | 16/1  | Remove Duplicates from Sorted Array | Arrays, Two Pointers       | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
+| 17  | 17/1  | Group Anagrams                  | Array, Hash Table, String, Sorting | [https://leetcode.com/problems/group-anagrams/description/](https://leetcode.com/problems/group-anagrams/description/)                                 |
 
 ---
-
 
 ## 🔗 Repository
 
@@ -50,4 +50,4 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 ---
 
 **Consistency beats motivation.  
-Day 16 done. Day 17 Loading… 💪🔥**
+Day 17 done. Day 18 Loading… 💪🔥**
