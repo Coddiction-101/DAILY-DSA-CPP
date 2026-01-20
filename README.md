@@ -16,8 +16,8 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 
 ## 📊 Progress
 
-* **Current Streak:** 19 days
-* **Problems Solved:** 19
+* **Current Streak:** 20 days
+* **Problems Solved:** 20
 
 ## 📚 Daily Solutions
 
@@ -41,7 +41,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 16  | 16/1  | Remove Duplicates from Sorted Array | Arrays, Two Pointers         | [https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) |
 | 17  | 17/1  | Group Anagrams                  | Array, Hash Table, String, Sorting | [https://leetcode.com/problems/group-anagrams/description/](https://leetcode.com/problems/group-anagrams/description/)                                 |
 | 18  | 18/1  | Search Insert Position          | Array, Binary Search              | [https://leetcode.com/problems/search-insert-position/description/](https://leetcode.com/problems/search-insert-position/description/)                  |
-| 19  | 19/1  | Merge Sorted Array              | Array Two Pointers Sorting         | [https://leetcode.com/problems/merge-sorted-array/description/](https://leetcode.com/problems/merge-sorted-array/description/)                         |
+| 20  | 20/1  | Find Peak Element              | Array, Binary Search         | [https://leetcode.com/problems/find-peak-element/description/](https://leetcode.com/problems/find-peak-element/description/)                         |
 
 ---
 
