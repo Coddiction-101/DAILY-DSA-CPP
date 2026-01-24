@@ -10,7 +10,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 * Master **core Data Structures & Algorithms** used in technical interviews  
 * Maintain a **clean, professional GitHub portfolio** that reflects discipline and growth  
 * Build a **public learning brand** by sharing progress on LinkedIn & X  
-* Become **internship-ready** for software engineering roles  
+* Become **internship-ready** for software engineering/developer roles  
 
 ---
 
