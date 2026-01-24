@@ -45,7 +45,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 20  | 20/1  | Find Peak Element                   | Arrays, Binary Search                   | [https://leetcode.com/problems/find-peak-element/description/](https://leetcode.com/problems/find-peak-element/description/)                   |
 | 21  | 21/1  | Find the Difference                 | Strings, Hash Table, Bit Manip, Sorting | [https://leetcode.com/problems/find-the-difference/description/](https://leetcode.com/problems/find-the-difference/description/)                 |
 | 22  | 22/1  | Climbing Stairs                     | DP, Fibonacci, Recursion                | [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/) |
-| 23  | 23/1  | Find Min in Rotated Sorted Array    | Array, Binary Search                    | [https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) |
+| 23  | 23/1  | Find Min in Rotated Sorted Array    | Array, Binary Search                    | [https://leetcode.com/problems/relative-ranks/description/](https://leetcode.com/problems/relative-ranks/description/) |
 
 ---
 
