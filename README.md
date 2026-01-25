@@ -46,7 +46,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 21  | 21/1  | Find the Difference                 | Strings, Hash Table, Bit Manip, Sorting | [https://leetcode.com/problems/find-the-difference/description/](https://leetcode.com/problems/find-the-difference/description/)                 |
 | 22  | 22/1  | Climbing Stairs                     | DP, Fibonacci, Recursion                | [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/) |
 | 24  | 24/1  | Find Min in Rotated Sorted Array    | Array, Sorting Heap (Priority Queue)    | [https://leetcode.com/problems/relative-ranks/description/](https://leetcode.com/problems/relative-ranks/description/) |
-| 24  | 24/1  | Find Min in Rotated Sorted Array    | Array, Binary Search                    | [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |
+| 25  | 25/1  | Find Min in Rotated Sorted Array    | Array, Binary Search                    | [https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) |
 
 ---
 
