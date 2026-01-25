@@ -57,4 +57,4 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 ---
 
 **Consistency beats motivation.  
-Day 24 done. Day 25 Loading… 💪🔥**
+Day 25 done. Day 26 Loading… 💪🔥**
