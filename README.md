@@ -1,8 +1,3 @@
-Locked in. Here’s the **clean, corrected, and fully updated version** with **Day 27 – Sort Colors** added and progress aligned properly.
-You can directly paste this into your **README.md** ✅
-
----
-
 # Daily DSA in C++ 🚀
 
 Starting **January 1, 2026** — committing to solving at least **one DSA problem every day in C++**.
