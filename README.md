@@ -66,12 +66,3 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 Day 27 completed. Day 28 loading… 💪🔥**
 
 ---
-
-If you want next:
-
-* 🔄 **Auto-update README via script**
-* 🧠 **Day 28 problem suggestion (Binary Search II / Sliding Window)**
-* 📝 **Commit message + folder structure for Sort Colors**
-
-Just say it 👊
-
