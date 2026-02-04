@@ -4,8 +4,6 @@
  * Time Complexity: O(n^2)
  * Space Complexity: O(1) (excluding output)
  *
- * Repo: DAILY-DSA-CPP/Day_31/three_sum.cpp
- *
  * Key Idea:
  * - Sort the array
  * - Fix one element
@@ -87,7 +85,7 @@ void printResult(const vector<vector<int>>& result) {
 int main() {
     Solution sol;
 
-    // Test cases (LeetCode style)
+    // Test cases
     vector<vector<int>> testCases = {
         {-1, 0, 1, 2, -1, -4},
         {0, 1, 1},
