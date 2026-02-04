@@ -1,6 +1,3 @@
-
----
-
 # Daily DSA in C++ 🚀
 
 Starting **January 1, 2026** — committing to solving at least **one DSA problem every day in C++**.
