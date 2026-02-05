@@ -55,7 +55,7 @@ Starting **January 1, 2026** — committing to solving at least **one DSA proble
 | 28     | 28/1     | Longest Substring Without Repeating Characters | Sliding Window, Hashing           | [LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                       |
 | 29     | 29/1     | Top K Frequent Elements                        | HashMap, Bucket Sort              | [LC 347](https://leetcode.com/problems/top-k-frequent-elements/)                                            |
 | 30     | 30/1     | Trapping Rain Water                            | Two Pointers, Prefix Max          | [LC 42](https://leetcode.com/problems/trapping-rain-water/)                                                 |
-| 31     | 31/1     | Minimum Window Substring    | **Hash Table, String, Sliding Window**               | **[LC 76](https://leetcode.com/problems/minimum-window-substring/description/)**                            |
+| 31     | 31/1     | **Minimum Window Substring**    | **Hash Table, String, Sliding Window**               | **[LC 76](https://leetcode.com/problems/minimum-window-substring/description/)**                            |
 
 ---
 
