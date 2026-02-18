@@ -1,9 +1,10 @@
-
 <h1 align="center"> Daily DSA in C++ – 2026</h1>
-Starting **January 1, 2026** — committing to solving at least **one DSA problem every day in C++**.
+
+
+Started on **January 1, 2026**
+Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
-
 ## 🎯 Goals
 
 * Build **interview-ready problem-solving skills** through daily DSA practice
