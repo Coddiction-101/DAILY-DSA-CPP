@@ -1,10 +1,10 @@
 <h1 align="center"> Daily DSA in C++ – 2026</h1>
 
-
 Started on **January 1, 2026**
 Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
+
 ## 🎯 Goals
 
 * Build **interview-ready problem-solving skills** through daily DSA practice
@@ -17,10 +17,10 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-* **Current Streak:** 34 Days ✅
-* **Total Problems Solved:** 34
+* **Current Streak:** 36 Days ✅
+* **Total Problems Solved:** 36
 * **Target:** 300+
-* **Completion:** 11%
+* **Completion:** 12%
 
 ---
 
@@ -28,12 +28,12 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 | Pattern             | Problems | Status         |
 | ------------------- | -------- | -------------- |
-| Two Pointers        | 7        | Strong         |
+| Two Pointers        | 8        | Strong 🔥      |
 | Sliding Window      | 3        | Improving      |
 | Binary Search       | 5        | Strong         |
 | Prefix / Suffix     | 3        | Improving      |
 | Greedy              | 4        | Improving      |
-| Hashing             | 6        | Strong         |
+| Hashing             | 7        | Strong         |
 | Sorting             | 3        | Improving      |
 | Dynamic Programming | 3        | Learning       |
 | Bit Manipulation    | 2        | Needs Practice |
@@ -46,9 +46,9 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 | Data Structure        | Problems | Status      |
 | --------------------- | -------- | ----------- |
-| Arrays                | 18       | Strong      |
+| Arrays                | 20       | Strong 🔥   |
 | Strings               | 7        | Improving   |
-| Hash Table            | 6        | Strong      |
+| Hash Table            | 7        | Strong      |
 | Binary Search         | 5        | Strong      |
 | Dynamic Programming   | 3        | Learning    |
 | Bit Manipulation      | 2        | Basic       |
@@ -66,7 +66,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | Difficulty | Count |
 | ---------- | ----- |
 | Easy       | 19    |
-| Medium     | 13    |
+| Medium     | 15    |
 | Hard       | 2     |
 
 ---
@@ -146,4 +146,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 32  | 1/2  | Merge Strings Alternately                      | Strings, Two Pointers              | [https://leetcode.com/problems/merge-strings-alternately/](https://leetcode.com/problems/merge-strings-alternately/)                                                             |
 | 33  | 2/2  | Can Place Flowers                              | Arrays, Greedy                     | [https://leetcode.com/problems/can-place-flowers/](https://leetcode.com/problems/can-place-flowers/)                                                                             |
 | 34  | 3/2  | Reverse Words in a String                      | Strings, Two Pointers              | [https://leetcode.com/problems/reverse-words-in-a-string/](https://leetcode.com/problems/reverse-words-in-a-string/)                                                             |
+| 35  | 4/2  | Majority Element                               | Arrays, Hashing (Boyer–Moore)      | [https://leetcode.com/problems/majority-element/](https://leetcode.com/problems/majority-element/)                                                                               |
+| 36  | 5/2  | Container With Most Water                      | Arrays, Two Pointers               | [https://leetcode.com/problems/container-with-most-water/](https://leetcode.com/problems/container-with-most-water/)                                                             |
+
 ---
