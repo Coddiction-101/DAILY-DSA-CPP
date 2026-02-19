@@ -17,10 +17,10 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-* **Current Streak:** 36 Days ✅
-* **Total Problems Solved:** 36
+* **Current Streak:** 40 Days ✅
+* **Total Problems Solved:** 40
 * **Target:** 300+
-* **Completion:** 12%
+* **Completion:** 13.3%
 
 ---
 
@@ -28,17 +28,17 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 | Pattern             | Problems | Status         |
 | ------------------- | -------- | -------------- |
-| Two Pointers        | 8        | Strong 🔥      |
+| Two Pointers        | 11       | Strong 🔥      |
 | Sliding Window      | 3        | Improving      |
 | Binary Search       | 5        | Strong         |
 | Prefix / Suffix     | 3        | Improving      |
 | Greedy              | 4        | Improving      |
-| Hashing             | 7        | Strong         |
-| Sorting             | 3        | Improving      |
+| Hashing             | 8        | Strong 🔥      |
+| Sorting             | 4        | Improving      |
 | Dynamic Programming | 3        | Learning       |
 | Bit Manipulation    | 2        | Needs Practice |
 | Bucket Sort         | 1        | Basic          |
-| Kadane’s Algorithm  | 1        | Understood     |
+| Kadane's Algorithm  | 1        | Understood     |
 
 ---
 
@@ -46,9 +46,9 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 | Data Structure        | Problems | Status      |
 | --------------------- | -------- | ----------- |
-| Arrays                | 20       | Strong 🔥   |
-| Strings               | 7        | Improving   |
-| Hash Table            | 7        | Strong      |
+| Arrays                | 21       | Strong 🔥   |
+| Strings               | 8        | Improving   |
+| Hash Table            | 8        | Strong 🔥   |
 | Binary Search         | 5        | Strong      |
 | Dynamic Programming   | 3        | Learning    |
 | Bit Manipulation      | 2        | Basic       |
@@ -65,8 +65,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 | Difficulty | Count |
 | ---------- | ----- |
-| Easy       | 19    |
-| Medium     | 15    |
+| Easy       | 21    |
+| Medium     | 17    |
 | Hard       | 2     |
 
 ---
@@ -103,7 +103,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 * Weekly: Re-solve 5 previously solved problems
 * Monthly: Re-solve hardest 10 problems
-* Maintain a “Revisit List” for difficult patterns
+* Maintain a "Revisit List" for difficult patterns
 * Focus extra practice on weak areas
 
 ---
@@ -148,5 +148,9 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 34  | 3/2  | Reverse Words in a String                      | Strings, Two Pointers              | [https://leetcode.com/problems/reverse-words-in-a-string/](https://leetcode.com/problems/reverse-words-in-a-string/)                                                             |
 | 35  | 4/2  | Majority Element                               | Arrays, Hashing (Boyer–Moore)      | [https://leetcode.com/problems/majority-element/](https://leetcode.com/problems/majority-element/)                                                                               |
 | 36  | 5/2  | Container With Most Water                      | Arrays, Two Pointers               | [https://leetcode.com/problems/container-with-most-water/](https://leetcode.com/problems/container-with-most-water/)                                                             |
+| 37  | 6/2  | String Compression                             | Strings, Two Pointers              | [https://leetcode.com/problems/string-compression/](https://leetcode.com/problems/string-compression/)                                                                           |
+| 38  | 7/2  | Is Subsequence                                 | Strings, Two Pointers              | [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)                                                                                   |
+| 39  | 8/2  | Max Number of K-Sum Pairs                      | Arrays, Two Pointers, Hashing      | [https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                             |
+| 40  | 9/2  | Max Number of K-Sum Pairs (Local C++ Test)     | Arrays, Two Pointers, Hashing      | [https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                             |
 
 ---
