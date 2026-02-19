@@ -151,6 +151,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 37  | 6/2  | String Compression                             | Strings, Two Pointers              | [https://leetcode.com/problems/string-compression/](https://leetcode.com/problems/string-compression/)                                                                           |
 | 38  | 7/2  | Is Subsequence                                 | Strings, Two Pointers              | [https://leetcode.com/problems/is-subsequence/](https://leetcode.com/problems/is-subsequence/)                                                                                   |
 | 39  | 8/2  | Max Number of K-Sum Pairs                      | Arrays, Two Pointers, Hashing      | [https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                             |
-| 40  | 9/2  | Max Number of K-Sum Pairs (Local C++ Test)     | Arrays, Two Pointers, Hashing      | [https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                             |
+| 40  | 9/2  | Max Number of K-Sum Pairs                      | Arrays, Two Pointers, Hashing      | [https://leetcode.com/problems/max-number-of-k-sum-pairs/](https://leetcode.com/problems/max-number-of-k-sum-pairs/)                                                             |
 
 ---
