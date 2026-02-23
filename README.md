@@ -112,14 +112,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 35  | 4/2  | Reverse Words in a String                           | Strings, Two Pointers              | Medium     |
 
 ---
-
-## ⏱️ Study Timer
-
-Want to practice along? Use this Pomodoro timer for focused study sessions!
-
 🍅 [Open Pomodoro Timer](https://www.nodi.so/widget/embed/public/pomodoro)
-
-**Recommended:** 25 min focus → 5 min break → Repeat
 
 ---
 ## 📌 Problem Links
