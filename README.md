@@ -234,5 +234,3 @@ Stay focused with 25-minute deep work sessions!
 </p>
 
 ---
-
-**Last Updated:** February 5, 2026 | **Version:** 2.1
