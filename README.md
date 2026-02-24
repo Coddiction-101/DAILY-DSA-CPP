@@ -189,7 +189,7 @@ Stay focused with 25-minute deep work sessions!
 * **Active:** Maintain "Revisit List" for challenging patterns
 * **Spaced Repetition:** Day 1 → Day 3 → Day 7 → Day 14 → Day 30
 
-🔗 **[Complete Revision Tracker →](REVISION_TRACKER.md)** - Systematic revision of 96+ solved problems
+🔗 **[Complete Revision Tracker →](https://github.com/Coddiction-101/DSA-Revision)** - Systematic revision of 96+ solved problems
 
 ---
 
@@ -220,65 +220,7 @@ Stay focused with 25-minute deep work sessions!
 
 ---
 
-## 🌟 Connect & Follow
-
-<div align="center">
-
-📂 **Repository:** [Daily DSA C++ Solutions](https://github.com/Coddiction-101/DAILY-DSA-CPP/)  
-💼 **LinkedIn:** [Follow my daily progress updates](https://linkedin.com/in/your-profile)  
-💻 **LeetCode:** [Gulshxn](https://leetcode.com/u/Gulshxn/) - 96+ problems solved  
-🎯 **Goal:** 300+ problems by July 2026
-
 </div>
-
----
-
-## 📚 Additional Resources
-
-| Resource | Description |
-|----------|-------------|
-| 🔁 [Revision Tracker](REVISION_TRACKER.md) | Systematic revision of 96+ solved problems with spaced repetition |
-| 🗺️ [DSA Mastery Roadmap](DSA_MASTERY_ROADMAP.md) | Complete 6-month learning path from Arrays to Advanced Topics |
-| 🤝 [Networking Strategy](NETWORKING_STRATEGY.md) | Build connections through DSA journey on LinkedIn |
-| 📸 [Instagram Photography Networking](INSTAGRAM_PHOTOGRAPHY_NETWORKING.md) | Connect with photographers (bonus resource!) |
-| 💬 [Consistency Praise Templates](CONSISTENCY_PRAISE_TEMPLATES.md) | Engage with fellow coders effectively |
-| ⏱️ [Pomodoro Timer](https://www.nodi.so/widget/embed/public/pomodoro) | Stay focused during practice sessions |
-
----
-
-## 💡 Recent Achievement
-
-**Day 36 - Conquered Best Time to Buy and Sell Stock III! 🔥**
-
-This HARD problem taught me:
-- State Machine Dynamic Programming
-- Managing 4 states (buy1, sell1, buy2, sell2)
-- O(n) time, O(1) space optimization
-- How to handle "at most k transactions" constraint
-
-*From impossible to solved in one focused morning - that's the power of consistent practice!*
-
----
-
-## 📊 Statistics Summary
-
-**Daily Challenge Stats:**
-- Current Streak: **36 days**
-- Longest Streak: **36 days**
-- Problems per day: 1 minimum
-- Success Rate: **100%** (no missed days!)
-
-**Overall LeetCode Stats:**
-- Total Solved: **96+ problems**
-- Easy: 53 problems
-- Medium: 39 problems
-- Hard: **4 problems** (Candy, Trapping Rain Water, Min Window, Stock III)
-
-**Hard Problems Mastered:**
-1. ✅ Candy (Greedy)
-2. ✅ Trapping Rain Water (Two Pointers)
-3. ✅ Minimum Window Substring (Sliding Window)
-4. ✅ Best Time to Buy and Sell Stock III (State Machine DP) ← NEW!
 
 ---
 
