@@ -51,7 +51,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | Strings               | 9        | Improving   |
 | Hash Table            | 8        | Strong 🔥   |
 | Binary Search         | 5        | Strong      |
-| Dynamic Programming   | 4        | Learning    |
+| Dynamic Programming   | 5        | Learning    |
 | Bit Manipulation      | 2        | Basic       |
 | Heap / Priority Queue | 1        | Basic       |
 | Linked List           | 0        | Not Started |
