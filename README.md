@@ -36,7 +36,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | Greedy              | 5        | Improving      |
 | Hashing             | 8        | Strong 🔥      |
 | Sorting             | 4        | Improving      |
-| Dynamic Programming | 4        | Learning       |
+| Dynamic Programming | 5        | Learning       |
 | Bit Manipulation    | 2        | Needs Practice |
 | Bucket Sort         | 1        | Basic          |
 | Kadane's Algorithm  | 1        | Understood     |
