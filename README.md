@@ -158,6 +158,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 35. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
 36. [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
 37. [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+38. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
 </details>
 
