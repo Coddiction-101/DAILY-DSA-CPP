@@ -213,34 +213,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 🎯 **Goal:** 300+ problems by July 2026
 
 </div>
-
----
-
-## 📚 Additional Resources
-
-| Resource | Description |
-|----------|-------------|
-| 🔁 [Revision Tracker](REVISION_TRACKER.md) | Systematic revision of 96+ solved problems with spaced repetition |
-| 🗺️ [DSA Mastery Roadmap](DSA_MASTERY_ROADMAP.md) | Complete 6-month learning path from Arrays to Advanced Topics |
-| 🤝 [Networking Strategy](NETWORKING_STRATEGY.md) | Build connections through DSA journey on LinkedIn |
-| 📸 [Instagram Photography Networking](INSTAGRAM_PHOTOGRAPHY_NETWORKING.md) | Connect with photographers (bonus resource!) |
-| 💬 [Consistency Praise Templates](CONSISTENCY_PRAISE_TEMPLATES.md) | Engage with fellow coders effectively |
-| ⏱️ [Pomodoro Timer](https://www.nodi.so/widget/embed/public/pomodoro) | Stay focused during practice sessions |
-
----
-
-## 💡 Recent Achievement
-
-**Day 37 - Mastered Palindromic Substrings! 📊**
-
-This MEDIUM problem taught me:
-- 2D Dynamic Programming table construction
-- Processing substrings by length
-- Building solutions from base cases
-- Bottom-up DP approach
-
-*Completed with 5 DP problems now - pattern recognition is getting stronger!*
-
 ---
 
 ## 📊 Statistics Summary
