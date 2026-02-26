@@ -171,7 +171,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 * **Active:** Maintain "Revisit List" for challenging patterns
 * **Spaced Repetition:** Day 1 → Day 3 → Day 7 → Day 14 → Day 30
 
-🔗 **[Complete Revision Tracker →](REVISION_TRACKER.md)** - Systematic revision of 96+ solved problems
+🔗 **[Complete Revision Tracker →](https://github.com/Coddiction-101/DSA-Revision)** - Systematic revision of 96+ solved problems
 
 ---
 
