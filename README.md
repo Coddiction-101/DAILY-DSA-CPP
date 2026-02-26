@@ -215,28 +215,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 </div>
 ---
 
-## 📊 Statistics Summary
-
-**Daily Challenge Stats:**
-- Current Streak: **37 days**
-- Longest Streak: **37 days**
-- Problems per day: 1 minimum
-- Success Rate: **100%** (no missed days!)
-
-**Overall LeetCode Stats:**
-- Total Solved: **97+ problems**
-- Easy: 53 problems
-- Medium: 40 problems
-- Hard: **4 problems** (Candy, Trapping Rain Water, Min Window, Stock III)
-
-**Hard Problems Mastered:**
-1. ✅ Candy (Greedy)
-2. ✅ Trapping Rain Water (Two Pointers)
-3. ✅ Minimum Window Substring (Sliding Window)
-4. ✅ Best Time to Buy and Sell Stock III (State Machine DP) ← NEW!
-
----
-
 <p align="center">
   <b>Started: January 1, 2026 | Current: Day 37 | Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
@@ -247,5 +225,3 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 </p>
 
 ---
-
-**Last Updated:** February 6, 2026 | **Version:** 2.2
