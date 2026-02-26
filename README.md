@@ -30,7 +30,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | Pattern             | Problems | Status         |
 | ------------------- | -------- | -------------- |
 | Two Pointers        | 10       | Strong 🔥      |
-| Sliding Window      | 4        | Improving      |
+| Sliding Window      | 5        | Improving      |
 | Binary Search       | 5        | Strong         |
 | Prefix / Suffix     | 3        | Improving      |
 | Greedy              | 5        | Improving      |
