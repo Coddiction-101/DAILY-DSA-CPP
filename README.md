@@ -164,17 +164,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
 
-## 🔁 Revision System
-
-* **Weekly:** Re-solve 5 previously solved problems
-* **Monthly:** Re-solve hardest 10 problems
-* **Active:** Maintain "Revisit List" for challenging patterns
-* **Spaced Repetition:** Day 1 → Day 3 → Day 7 → Day 14 → Day 30
-
-🔗 **[Complete Revision Tracker →](https://github.com/Coddiction-101/DSA-Revision)** - Systematic revision of 96+ solved problems
-
----
-
 ## 📈 2026 Mastery Roadmap
 
 ### Phase 1 – Foundations (In Progress - 37/100)
@@ -200,17 +189,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 - [ ] 🎯 Day 100 - Complete Phase 1
 - [ ] 🎯 Day 200 - 2/3rd completion
 - [ ] 🎯 Day 300+ - Target achieved!
-
+      
 ---
-
-## 🌟 Connect & Follow
-
-<div align="center">
-
-📂 **Repository:** [Daily DSA C++ Solutions](https://github.com/Coddiction-101/DAILY-DSA-CPP/)  
-💼 **LinkedIn:** [Follow my daily progress updates](https://linkedin.com/in/your-profile)  
-💻 **LeetCode:** [Gulshxn](https://leetcode.com/u/Gulshxn/) - 97+ problems solved  
-🎯 **Goal:** 300+ problems by July 2026
 
 </div>
 ---
