@@ -114,28 +114,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 36  | 5/2  | Best Time to Buy and Sell Stock III                 | Arrays, Dynamic Programming        | Hard       |
 | 37  | 6/2  | Palindromic Substrings                              | String, Dynamic Programming        | Medium     |
 | 38  | 7/2  | Max Consecutive Ones III                            | Array, Binary Search, Sliding Window, Prefix Sum        | Medium     |
-
----
-
-## 🛠️ Study Tools
-
-### ⏱️ Pomodoro Timer for Focused Practice
-
-Stay focused with 25-minute deep work sessions!
-
-🍅 **[Launch Pomodoro Timer](https://www.nodi.so/widget/embed/public/pomodoro)**
-
-```
-📋 Recommended workflow:
-├─ 🍅 25 min → Read & understand problem
-├─ ☕ 5 min → Quick break
-├─ 🍅 25 min → Code the solution  
-├─ ☕ 5 min → Review & reflect
-└─ 🍅 25 min → Test & optimize
-```
-
-**Tip:** Hard problems = 3-4 pomodoros on average!
-
 ---
 
 ## 📌 Problem Links
