@@ -193,7 +193,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ---
 
 </div>
----
 
 <p align="center">
   <b>Started: January 1, 2026 | Current: Day 37 | Target: 300+ Problems</b><br>
@@ -204,4 +203,3 @@ Commitment: Solve at least one DSA problem **Daily** in C++
   Made with ❤️ and ☕ by <a href="https://github.com/Coddiction-101">Coddiction-101</a>
 </p>
 
----
