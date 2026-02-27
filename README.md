@@ -113,7 +113,9 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 35  | 4/2  | Reverse Words in a String                           | Strings, Two Pointers              | Medium     |
 | 36  | 5/2  | Best Time to Buy and Sell Stock III                 | Arrays, Dynamic Programming        | Hard       |
 | 37  | 6/2  | Palindromic Substrings                              | String, Dynamic Programming        | Medium     |
-| 38  | 7/2  | Max Consecutive Ones III                            | Array, Binary Search, Sliding Window, Prefix Sum        | Medium     |
+| 38  | 7/2  | Max Consecutive Ones III                            | Array, Binary Search, Sliding Window, Prefix Sum   | Medium     
+| 39  | 8/2  | Find the Highest Altitude                           | Array, Prefix Sum                 | Easy |
+
 ---
 
 ## 📌 Problem Links
