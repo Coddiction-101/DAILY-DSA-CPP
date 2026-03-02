@@ -166,6 +166,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 39. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)
 40. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 41. [Majority Element](https://leetcode.com/problems/majority-element/)
+42. [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 
 </details>
 
