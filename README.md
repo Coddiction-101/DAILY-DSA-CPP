@@ -23,53 +23,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
 
-## 🧩 Pattern Mastery Tracker
-
-| Pattern             | Problems | Status         |
-| ------------------- | -------- | -------------- |
-| Two Pointers        | 10       | Strong 🔥      |
-| Sliding Window      | 6        | Improving      |
-| Binary Search       | 7        | Strong 🔥      |
-| Prefix / Suffix     | 4        | Improving      |
-| Greedy              | 5        | Improving      |
-| Hashing             | 10        | Strong 🔥      |
-| Sorting             | 4        | Improving      |
-| Dynamic Programming | 5        | Learning       |
-| Bit Manipulation    | 2        | Needs Practice |
-| Bucket Sort         | 1        | Basic          |
-| Kadane's Algorithm  | 1        | Understood     |
-
----
-
-## 🗂 Data Structure Progress Tracker
-
-| Data Structure        | Problems | Status      |
-| --------------------- | -------- | ----------- |
-| Arrays                | 28       | Strong 🔥   |
-| Strings               | 10       | Improving   |
-| Hash Table            | 9        | Strong 🔥   |
-| Binary Search         | 7        | Strong 🔥   |
-| Dynamic Programming   | 5        | Learning    |
-| Bit Manipulation      | 2        | Basic       |
-| Heap / Priority Queue | 1        | Basic       |
-| Linked List           | 0        | Not Started |
-| Stack                 | 0        | Not Started |
-| Queue                 | 0        | Not Started |
-| Trees                 | 0        | Not Started |
-| Graphs                | 0        | Not Started |
-
----
-
-## 🎯 Difficulty Breakdown
-
-| Difficulty | Count |
-| ---------- | ----- |
-| Easy       | 20    |
-| Medium     | 18    |
-| Hard       | 3     |
-
----
-
 ## 📚 Daily Solutions
 
 | Day | Date  | Problem                                                | Topics                                              | Difficulty |
