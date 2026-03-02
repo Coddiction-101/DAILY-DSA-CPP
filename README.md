@@ -32,7 +32,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | Binary Search       | 7        | Strong 🔥      |
 | Prefix / Suffix     | 4        | Improving      |
 | Greedy              | 5        | Improving      |
-| Hashing             | 9        | Strong 🔥      |
+| Hashing             | 10        | Strong 🔥      |
 | Sorting             | 4        | Improving      |
 | Dynamic Programming | 5        | Learning       |
 | Bit Manipulation    | 2        | Needs Practice |
