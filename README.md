@@ -17,7 +17,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-* **Current Streak:** 41 Days ✅
+* **Current Streak:** 42 Days ✅
 * **Total Problems Solved:** 41 (Daily Challenge)
 * **LeetCode Total:** 101+ Problems 🎯
 * **Target:** 300+
