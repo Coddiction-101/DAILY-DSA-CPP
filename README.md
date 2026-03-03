@@ -119,6 +119,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 40. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 41. [Majority Element](https://leetcode.com/problems/majority-element/)
 42. [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
+43. [Single Number](https://leetcode.com/problems/single-number/description/)
 
 </details>
 
