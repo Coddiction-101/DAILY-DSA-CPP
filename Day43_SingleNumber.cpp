@@ -1,15 +1,11 @@
 /*
  * Day 43 - Daily DSA in C++
  * Problem: 136. Single Number (LeetCode)
- * Date: February 13, 2026
  * Difficulty: Easy
  * Topics: Array, Bit Manipulation
  *
  * Time Complexity: O(32 × n) = O(n)
  * Space Complexity: O(1)
- *
- * Problem Link:
- * https://leetcode.com/problems/single-number/
  *
  * -------------------------------------------------------------------
  * Problem Statement:
