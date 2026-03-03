@@ -68,7 +68,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 40  | 10/2  | Search in Rotated Sorted Array                         | Array, Binary Search                                | Medium     |
 | 41  | 11/2  | Majority Element                                       | Array, Hash Table, Voting Algorithm                 | Easy       |
 | 42  | 12/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
-| 42  | 12/2  | Single Number                                          | Array, Frequency Counting, Hashing (Counting Technique), Simulation / Validation Logic | Easy       |
+| 42  | 12/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
 
 ---
 
