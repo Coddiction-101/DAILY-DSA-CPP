@@ -17,7 +17,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-* **Current Streak:** 43 Days ✅
+* **Current Streak:** 44 Days ✅
 * **Target:** 300+
 
 ---
@@ -69,6 +69,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 41  | 11/2  | Majority Element                                       | Array, Hash Table, Voting Algorithm                 | Easy       |
 | 42  | 12/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
 | 43  | 13/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
+| 44  | 14/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
 
 ---
 
@@ -119,7 +120,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 40. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 41. [Majority Element](https://leetcode.com/problems/majority-element/)
 42. [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
-43. [Single Number](https://leetcode.com/problems/single-number/description/)
+43. [Single Number](https://leetcode.com/problems/single-number/)
+44. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 </details>
 
@@ -127,7 +129,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📈 2026 Mastery Roadmap
 
-### Phase 1 – Foundations (In Progress - 41/100)
+### Phase 1 – Foundations (In Progress - 44/100)
 ✅ Arrays • ✅ Strings • ✅ Hashing • ✅ Two Pointers • ✅ Binary Search • 🔄 Sliding Window • 🔄 Dynamic Programming
 
 ### Phase 2 – Core Structures (Starting Soon)
@@ -150,9 +152,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
 
-
 <p align="center">
-  <b>Started: January 1, 2026 | Current: Day 43 | Target: 300+ Problems</b><br>
+  <b>Started: January 1, 2026 | Current: Day 44 | Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
 </p>
 
