@@ -70,6 +70,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 42  | 12/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
 | 43  | 13/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
 | 44  | 14/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
+| 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
 
 ---
 
