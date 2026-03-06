@@ -124,7 +124,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 42. [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)
 43. [Single Number](https://leetcode.com/problems/single-number/)
 44. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-44. [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
+45. [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
+46. 
 
 </details>
 
