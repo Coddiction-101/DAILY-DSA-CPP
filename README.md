@@ -18,6 +18,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ## 📊 Overall Progress
 
 **Current Streak:** 46 Days ✅
+
 **Target:** 300+
 
 ---
@@ -71,7 +72,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 43  | 13/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
 | 44  | 14/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
 | 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
-
+| 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
 ---
 
 ## 📌 Problem Links
