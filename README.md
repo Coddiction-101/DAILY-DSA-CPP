@@ -125,8 +125,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 43. [Single Number](https://leetcode.com/problems/single-number/)
 44. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 45. [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
-46. 
-
+46. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 </details>
 
 ---
