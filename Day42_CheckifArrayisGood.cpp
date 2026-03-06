@@ -1,6 +1,6 @@
 /*
  * Problem: 2341. Check if the Array is Good (LeetCode)
- * Date: March 02, 2026
+ * Date: February 12, 2026
  * Difficulty: Medium
  * Topics: Array, Hashing
  * Time Complexity: O(n)
