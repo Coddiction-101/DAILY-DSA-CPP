@@ -1,6 +1,5 @@
 /*
  * Problem: 912. Sort an Array (LeetCode)
- * Date: March 02, 2026
  * Difficulty: Medium
  * Topics: Array, Sorting, Divide and Conquer, Merge Sort
  * Time Complexity: O(n log n)
