@@ -1,5 +1,4 @@
 /*
- * Day 46 - Daily DSA in C++
  * Problem: 7. Reverse Integer (LeetCode)
  * Difficulty: Medium
  * Topics: Math
