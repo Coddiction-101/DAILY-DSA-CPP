@@ -128,7 +128,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 45. [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 46. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 47. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
-48. [ReverseInteger]
+48. [Reverse Integer]
 </details>
 
 ---
