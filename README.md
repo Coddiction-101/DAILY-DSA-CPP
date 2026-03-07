@@ -74,7 +74,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
 | 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
 | 47  | 17/2  | Palindrome Number                                      | Math                                                | Easy       |
-| 48  | 18    | Reverse Integer                                        | Math                                                | 
+| 48  | 18    | Reverse Integer                                        | Math                                                | Medium
 ---
 
 ## 📌 Problem Links
