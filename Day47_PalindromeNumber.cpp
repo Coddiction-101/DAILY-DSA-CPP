@@ -1,6 +1,5 @@
 /*
  * Problem: 9. Palindrome Number (LeetCode)
- * Date: March 06, 2026
  * Difficulty: Easy
  * Topics: Math, Integer Manipulation
  * Time Complexity: O(log10(n))
