@@ -73,7 +73,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 44  | 14/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
 | 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
 | 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
-| 47  | 17/2  | Palindrome
+| 47  | 17/2  | Palindrome Number                                      |
 ---
 
 ## 📌 Problem Links
