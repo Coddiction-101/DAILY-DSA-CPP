@@ -17,7 +17,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-**Current Streak:** 48 Days ✅
+**Current Streak:** 🎉 **50 Days ✅ - HALFWAY TO 100!** 🎉
 
 **Target:** 300+
 
@@ -74,7 +74,10 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
 | 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
 | 47  | 17/2  | Palindrome Number                                      | Math                                                | Easy       |
-| 48  | 18/2    | Reverse Integer                                        | Math                                                | Medium     |
+| 48  | 18/2  | Reverse Integer                                        | Math                                                | Medium     |
+| 49  | 19/2  | Power of Two                                           | Math, Bit Manipulation                              | Easy       |
+| 50  | 20/2  | Reverse String II                                      | String, Two Pointers                                | Easy       |
+
 ---
 
 ## 📌 Problem Links
@@ -129,14 +132,17 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 45. [Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/)
 46. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 47. [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
-48. [Reverse Integer](https://leetcode.com/problems/palindrome-number/description/)
+48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+49. [Power of Two](https://leetcode.com/problems/power-of-two/)
+50. [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
+
 </details>
 
 ---
 
 ## 📈 2026 Mastery Roadmap
 
-### Phase 1 – Foundations (In Progress - 46/100)
+### Phase 1 – Foundations (In Progress - 50/100)
 ✅ Arrays • ✅ Strings • ✅ Hashing • ✅ Two Pointers • ✅ Binary Search • 🔄 Sliding Window • 🔄 Dynamic Programming
 
 ### Phase 2 – Core Structures (Starting Soon)
@@ -152,7 +158,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 - [x] ✅ Day 1 - Started the journey (Jan 1, 2026)
 - [x] ✅ Day 10 - First 10 days streak
 - [x] ✅ Day 30 - One month consistent
-- [ ] 🎯 Day 50 - Halfway to first 100
+- [x] 🎉 **Day 50 - HALFWAY TO 100! MAJOR MILESTONE!** 🎉
 - [ ] 🎯 Day 100 - Complete Phase 1
 - [ ] 🎯 Day 200 - 2/3rd completion
 - [ ] 🎯 Day 300+ - Target achieved!
@@ -160,7 +166,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ---
 
 <p align="center">
-  <b>Started: January 1, 2026 | Current: Day 48 | Target: 300+ Problems</b>
+  <b>Started: January 1, 2026 | Current: Day 50 🎉 | Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
 </p>
 
