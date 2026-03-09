@@ -141,19 +141,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
 
-## 📈 2026 Mastery Roadmap
-
-### Phase 1 – Foundations (In Progress - 50/100)
-✅ Arrays • ✅ Strings • ✅ Hashing • ✅ Two Pointers • ✅ Binary Search • 🔄 Sliding Window • 🔄 Dynamic Programming
-
-### Phase 2 – Core Structures (Starting Soon)
-⏳ Linked List • ⏳ Stack • ⏳ Queue • ⏳ Recursion • ⏳ Backtracking
-
-### Phase 3 – Advanced (Upcoming)
-⏳ Trees • ⏳ Graphs • ⏳ Advanced DP • ⏳ Heap/Priority Queue
-
----
-
 ## 🏆 Milestones
 
 - [x] ✅ Day 1 - Started the journey (Jan 1, 2026)
