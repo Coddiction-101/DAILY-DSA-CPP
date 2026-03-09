@@ -77,7 +77,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 48  | 18/2  | Reverse Integer                                        | Math                                                | Medium     |
 | 49  | 19/2  | Power of Two                                           | Math, Bit Manipulation                              | Easy       |
 | 50  | 20/2  | Reverse String II                                      | String, Two Pointers                                | Easy       |
-| 51  | 21/2  | 3 Sum                                                  | Array, Two Pointers, Sorting                        |
+| 51  | 21/2  | 3 Sum                                                  | Array, Two Pointers, Sorting                        | Medium
 ---
 
 ## 📌 Problem Links
