@@ -1,7 +1,6 @@
 /*
  * Day 52 - Daily DSA in C++
  * Problem: 263. Ugly Number (LeetCode)
- * Date: February 21, 2026
  * Difficulty: Easy
  * Topics: Math
  *
