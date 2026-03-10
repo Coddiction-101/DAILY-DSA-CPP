@@ -136,7 +136,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 49. [Power of Two](https://leetcode.com/problems/power-of-two/)
 50. [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 51. [3Sum](https://leetcode.com/problems/3sum/description/)
-52. []
+52. [](https://leetcode.com/problems/ugly-number/description/)
 
 </details>
 
