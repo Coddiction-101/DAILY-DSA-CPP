@@ -66,7 +66,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 37  | 6/2   | Palindromic Substrings                                 | String, Dynamic Programming                         | Medium     |
 | 38  | 7/2   | Max Consecutive Ones III                               | Array, Sliding Window, Prefix Sum                   | Medium     |
 | 39  | 8/2   | Find the Highest Altitude                              | Array, Prefix Sum                                   | Easy       |
-| 40  | 9/2  | Search in Rotated Sorted Array                         | Array, Binary Search                                | Medium     |
+| 40  | 9/2   | Search in Rotated Sorted Array                         | Array, Binary Search                                | Medium     |
 | 41  | 10/2  | Majority Element                                       | Array, Hash Table, Voting Algorithm                 | Easy       |
 | 42  | 11/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
 | 43  | 12/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
