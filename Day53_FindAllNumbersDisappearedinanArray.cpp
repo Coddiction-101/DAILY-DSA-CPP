@@ -1,7 +1,6 @@
 /*
  * Day 53 - Daily DSA in C++
  * Problem: 448. Find All Numbers Disappeared in an Array (LeetCode)
- * Date: February 22, 2026
  * Difficulty: Easy
  * Topics: Array, Hash Table
  *
