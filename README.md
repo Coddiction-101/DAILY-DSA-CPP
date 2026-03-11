@@ -72,7 +72,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 43  | 12/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
 | 44  | 13/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
 | 45  | 14/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
-| 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
+| 46  | 15/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
 | 47  | 17/2  | Palindrome Number                                      | Math                                                | Easy       |
 | 48  | 18/2  | Reverse Integer                                        | Math                                                | Medium     |
 | 49  | 19/2  | Power of Two                                           | Math, Bit Manipulation                              | Easy       |
