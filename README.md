@@ -79,7 +79,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 50  | 20/2  | Reverse String II                                      | String, Two Pointers                                | Easy       |
 | 51  | 21/2  | 3 Sum                                                  | Array, Two Pointers, Sorting                        | Medium     |
 | 52  | 22/2  | Ugly Number                                            | Junior, Math                                        | Easy       |
-| 5
+| 53
 ---
 
 ## 📌 Problem Links
