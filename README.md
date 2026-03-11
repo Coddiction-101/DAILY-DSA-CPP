@@ -139,7 +139,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 50. [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
 51. [3Sum](https://leetcode.com/problems/3sum/description/)
 52. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
-53. [](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=array)
+53. [Find All Numbers Disappeared in an Array
+](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=array)
 
 </details>
 
