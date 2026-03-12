@@ -1,7 +1,6 @@
 /*
  * Day 54 - Daily DSA in C++
  * Problem: 66. Plus One (LeetCode)
- * Date: February 23, 2026
  * Difficulty: Easy
  * Topics: Array, Math
  *
