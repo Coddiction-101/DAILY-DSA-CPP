@@ -17,7 +17,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-**Current Streak:** 🎉 **54/100**
+**Current Streak:** 54 Days ✅
 
 **Target:** 300+
 
@@ -66,20 +66,23 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 37  | 6/2   | Palindromic Substrings                                 | String, Dynamic Programming                         | Medium     |
 | 38  | 7/2   | Max Consecutive Ones III                               | Array, Sliding Window, Prefix Sum                   | Medium     |
 | 39  | 8/2   | Find the Highest Altitude                              | Array, Prefix Sum                                   | Easy       |
-| 40  | 9/2   | Search in Rotated Sorted Array                         | Array, Binary Search                                | Medium     |
-| 41  | 10/2  | Majority Element                                       | Array, Hash Table, Voting Algorithm                 | Easy       |
-| 42  | 11/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
-| 43  | 12/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
-| 44  | 13/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
-| 45  | 14/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
-| 46  | 15/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
-| 47  | 16/2  | Palindrome Number                                      | Math                                                | Easy       |
-| 48  | 17/2  | Reverse Integer                                        | Math                                                | Medium     |
-| 49  | 18/2  | Power of Two                                           | Math, Bit Manipulation                              | Easy       |
-| 50  | 19/2  | Reverse String II                                      | String, Two Pointers                                | Easy       |
-| 51  | 20/2  | 3 Sum                                                  | Array, Two Pointers, Sorting                        | Medium     |
-| 52  | 21/2  | Ugly Number                                            | Junior, Math                                        | Easy       |
+| 40  | 10/2  | Search in Rotated Sorted Array                         | Array, Binary Search                                | Medium     |
+| 41  | 11/2  | Majority Element                                       | Array, Hash Table, Voting Algorithm                 | Easy       |
+| 42  | 12/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
+| 43  | 13/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
+| 44  | 14/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
+| 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
+| 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
+| 47  | 17/2  | Palindrome Number                                      | Math                                                | Easy       |
+| 48  | 18/2  | Reverse Integer                                        | Math                                                | Medium     |
+| 49  | 19/2  | Power of Two                                           | Math, Bit Manipulation                              | Easy       |
+| 50  | 20/2  | Reverse String II                                      | String, Two Pointers                                | Easy       |
+| 51  | 21/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
+| 52  | 21/2  | Ugly Number                                            | Math                                                | Easy       |
 | 53  | 22/2  | Find All Numbers Disappeared in an Array               | Array, Hash Table                                   | Easy       |
+| 54  | 23/2  | Plus One                                               | Array, Math                                         | Easy       |
+| 54  | 23/2  | Plus One                                               | Array, Math                                         | Easy       |
+
 ---
 
 ## 📌 Problem Links
@@ -137,11 +140,25 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 48. [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 49. [Power of Two](https://leetcode.com/problems/power-of-two/)
 50. [Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
-51. [3Sum](https://leetcode.com/problems/3sum/description/)
-52. [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
-53. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/?envType=problem-list-v2&envId=array)
+51. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+52. [Ugly Number](https://leetcode.com/problems/ugly-number/)
+53. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+54. [Plus One](https://leetcode.com/problems/plus-one/)
 
 </details>
+
+---
+
+## 📈 2026 Mastery Roadmap
+
+### Phase 1 – Foundations (In Progress - 54/100)
+✅ Arrays • ✅ Strings • ✅ Hashing • ✅ Two Pointers • ✅ Binary Search • 🔄 Sliding Window • 🔄 Dynamic Programming
+
+### Phase 2 – Core Structures (Starting Soon)
+⏳ Linked List • ⏳ Stack • ⏳ Queue • ⏳ Recursion • ⏳ Backtracking
+
+### Phase 3 – Advanced (Upcoming)
+⏳ Trees • ⏳ Graphs • ⏳ Advanced DP • ⏳ Heap/Priority Queue
 
 ---
 
@@ -158,7 +175,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ---
 
 <p align="center">
-  <b>Started: January 1, 2026 | Current: Day 53 🎉 | Target: 300+ Problems</b><br>
+  <b>Started: January 1, 2026 | Current: Day 54 | Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
 </p>
 
