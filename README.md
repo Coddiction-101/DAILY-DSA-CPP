@@ -152,7 +152,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📈 2026 Mastery Roadmap
 
-### Phase 1 – Foundations (In Progress - 54/100)
+### Phase 1 – Foundations (In Progress - 55/100)
 ✅ Arrays • ✅ Strings • ✅ Hashing • ✅ Two Pointers • ✅ Binary Search • 🔄 Sliding Window • 🔄 Dynamic Programming
 
 ### Phase 2 – Core Structures (Starting Soon)
