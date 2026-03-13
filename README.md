@@ -80,7 +80,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 51  | 21/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
 | 52  | 22/2  | Ugly Number                                            | Math                                                | Easy       |
 | 53  | 23/2  | Find All Numbers Disappeared in an Array               | Array, Hash Table                                   | Easy       |
-| 54  | 23/2  | Plus One                                               | Array, Math                                         | Easy       |
+| 54  | 24/2  | Plus One                                               | Array, Math                                         | Easy       |
 | 55  | 24/2  | Longest Subarray of 1's After Deleting One Element     | Array, Sliding Window                               | Medium     |
 
 ---
