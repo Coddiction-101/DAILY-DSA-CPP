@@ -144,6 +144,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 52. [Ugly Number](https://leetcode.com/problems/ugly-number/)
 53. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 54. [Plus One](https://leetcode.com/problems/plus-one/)
+55. [](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
 
 </details>
 
