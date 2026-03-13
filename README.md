@@ -82,6 +82,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 53  | 22/2  | Find All Numbers Disappeared in an Array               | Array, Hash Table                                   | Easy       |
 | 54  | 23/2  | Plus One                                               | Array, Math                                         | Easy       |
 | 54  | 23/2  | Plus One                                               | Array, Math                                         | Easy       |
+| 54  | 23/2  | Longest Subarray of 1's After Deleting One Element     | Array, Sliding Window                               | Medium     |
 
 ---
 
