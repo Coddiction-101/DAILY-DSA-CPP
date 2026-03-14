@@ -15,8 +15,7 @@ public:
 };
 
 int main() {
-    cout << "=== Day 56 Problem 1: To Lower Case ===" << endl;
-    Solution solution;
+     Solution solution;
     
      {
         string s = "Hello";
