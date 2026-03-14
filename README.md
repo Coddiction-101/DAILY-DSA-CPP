@@ -146,7 +146,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 53. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 54. [Plus One](https://leetcode.com/problems/plus-one/)
 55. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
-56. [Find Numbers with Even Number of Digits]()
+56. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
 
 </details>
 
