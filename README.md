@@ -84,7 +84,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 55  | 25/2  | Longest Subarray of 1's After Deleting One Element     | Array, Sliding Window                               | Medium     |
 | 56  | 26/2  | Find Numbers with Even Number of Digits                | Array, Math                                         | Easy       |
 | 57  | 27/2  | to Lower case                                          | String                                              | Easy       |
-| 58  | 28/2  | Reverse Words in a String III                          | Two Pointers, String                                |
+| 58  | 28/2  | Reverse Words in a String III                          | Two Pointers, String                                | Easy       |
 ---
 
 ## 📌 Problem Links
