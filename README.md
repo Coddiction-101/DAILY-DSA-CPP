@@ -147,6 +147,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 54. [Plus One](https://leetcode.com/problems/plus-one/)
 55. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
 56. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
+57. [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 
 </details>
 
