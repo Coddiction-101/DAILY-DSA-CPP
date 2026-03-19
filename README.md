@@ -88,6 +88,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 59  | 1/3   | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
 | 60  | 2/3   | Backspace String Compare                               | Two Pointers, String                                | Easy       |
 | 61  | 3/3   | Long Pressed Name                                      | Two Pointers, String, Greedy                        | Easy       |
+| 62  |
 ---
 
 ## 📌 Problem Links
