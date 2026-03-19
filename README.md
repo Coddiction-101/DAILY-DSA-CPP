@@ -86,7 +86,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 57  | 27/2  | to Lower case                                          | String                                              | Easy       |
 | 58  | 28/2  | Reverse Words in a String III                          | Two Pointers, String                                | Easy       |
 | 59  | 29/2  | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
-|     |       |                                                        |                                                     |
+|     |       |                                                        |                                                     |            |
 ---
 
 ## 📌 Problem Links
