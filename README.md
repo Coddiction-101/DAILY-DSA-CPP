@@ -88,7 +88,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 59  | 1/3   | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
 | 60  | 2/3   | Find All Numbers Disappeared in an Array               | Two Pointers, String                                | Easy       |
 | 61  | 3/3   | Backspace String Compare                               | Two Pointers, String                                | Easy       |
-| 62  | 4/3   | NumberofSubsequencesThatSatisfytheGivenSumCondition    | Two Pointers, Array, Sorting, Greedy                | Medium     |
+| 62  | 4/3   | Long Pressed Name                                      | Two Pointers, String, Greedy                        | Medium     |
 | 63  | 5/3   | AppendCharacterstoStringtoMakeSubsequence              | Two Pointers, Array, Sorting, Greedy                | Medium     |
 | 64  | 6/3   | Find All Numbers Disappeared in an Array               | Array, Hash Table                                   | Easy       |
 ---
