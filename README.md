@@ -90,7 +90,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 61  | 3/3   | Long Pressed Name                                      | Two Pointers, String, Greedy                        | Easy       |
 | 62  | 4/3   | NumberofSubsequencesThatSatisfytheGivenSumCondition    | Two Pointers, String, Greedy                        | Medium     |
 | 63  | 5/3   | AppendCharacterstoStringtoMakeSubsequence              | Two Pointers, Array, Sorting, Greedy                | Medium     |
-| 64  | 6/3   | Find All Numbers Disappeared in an Array               |
+| 64  | 6/3   | Find All Numbers Disappeared in an Array               | Array, Hash Table
 ---
 
 ## 📌 Problem Links
