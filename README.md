@@ -85,8 +85,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 56  | 26/2  | Find Numbers with Even Number of Digits                | Array, Math                                         | Easy       |
 | 57  | 27/2  | to Lower case                                          | String                                              | Easy       |
 | 58  | 28/2  | Reverse Words in a String III                          | Two Pointers, String                                | Easy       |
-| 59  | 1/3  | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
-| 60  | 30/2      |                                                        |                                                     |            |
+| 59  | 1/3   | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
+| 60  | 2/3   |                                                        |                                                     |            |
 ---
 
 ## 📌 Problem Links
