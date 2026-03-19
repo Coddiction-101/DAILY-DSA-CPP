@@ -158,6 +158,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 58. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 59. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 60. [FindAllNumbersDisappearedinanArray](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+61. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 
 </details>
 
