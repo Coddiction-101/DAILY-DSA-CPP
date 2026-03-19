@@ -159,6 +159,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 59. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 60. [FindAllNumbersDisappearedinanArray](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 61. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+62. [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 
 </details>
 
