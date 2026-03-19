@@ -87,7 +87,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 58  | 28/2  | Reverse Words in a String III                          | Two Pointers, String                                | Easy       |
 | 59  | 1/3   | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
 | 60  | 2/3   | Backspace String Compare                               | Two Pointers, String                                | Easy       |
-| 61  | 
+| 61  | 3/3
 ---
 
 ## 📌 Problem Links
