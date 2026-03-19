@@ -161,6 +161,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 61. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 62. [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 63. [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/)
+64. [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)
 
 </details>
 
