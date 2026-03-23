@@ -92,7 +92,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 63  | 5/3   | Number of Subsequences That Satisfy the Given Sum Condition | Two Pointers, Array, Sorting, Greedy           | Medium     |
 | 64  | 6/3   | Append Characters to String to Make Subsequence         | Two Pointers, String, Greedy                       | Medium     |
 | 65  | 7/3   | Largest Number                                          | Array, String, Greedy, Sorting                     | Medium     | 
-| 66  | 8/3   | Climbing Stairs                                         | 
+| 66  | 8/3   | Climbing Stairs                                         | Math, DP                                           | Easy       |
 ---
 
 ## 📌 Problem Links
