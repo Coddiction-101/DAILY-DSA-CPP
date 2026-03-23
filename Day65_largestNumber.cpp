@@ -11,10 +11,9 @@ public:
 
     string largestNumber(vector<int> &nums)
     {
-
         vector<string> arr;
-        for (
-            int num : nums)
+
+        for (int num : nums)
         {
             arr.push_back(to_string(num));
         }
@@ -41,5 +40,6 @@ int main()
     vector<int> nums = {3, 30, 34, 5, 9};
 
     cout << obj.largestNumber(nums) << endl;
+
     return 0;
 }
