@@ -90,7 +90,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 61  | 3/3   | Backspace String Compare                               | Two Pointers, String                                | Easy       |
 | 62  | 4/3   | Long Pressed Name                                      | Two Pointers, String, Greedy                        | Easy       |
 | 63  | 5/3   | Number of Subsequences That Satisfy the Given Sum Condition | Two Pointers, Array, Sorting, Greedy           | Medium     |
-| 64  | 6/3   | Append Characters to String to Make Subsequence         | Two Pointers, String, Greedy                        | Medium     |
+| 64  | 6/3   | Append Characters to String to Make Subsequence         | Two Pointers, String, Greedy                        | Medium    |
+|
 ---
 
 ## 📌 Problem Links
