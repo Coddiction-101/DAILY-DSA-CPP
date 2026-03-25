@@ -5,16 +5,6 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
 
-## 🎯 Goals
-
-* Build **interview-ready problem-solving skills** through daily DSA practice
-* Master **core Data Structures & Algorithms** used in technical interviews
-* Solve **300+ problems before July 2026**
-* Maintain a **clean, professional GitHub portfolio**
-* Become **internship-ready** for software engineering roles
-
----
-
 ## 📊 Overall Progress
 
 **Current Streak:** 67 Days ✅
