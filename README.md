@@ -93,7 +93,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 64  | 6/3   | Append Characters to String to Make Subsequence         | Two Pointers, String, Greedy                       | Medium     |
 | 65  | 7/3   | Largest Number                                          | Array, String, Greedy, Sorting                     | Medium     | 
 | 66  | 8/3   | Climbing Stairs                                         | Math, DP                                           | Easy       |
-| 66  | 8/3   | Climbing Stairs                                         | Linked List, Two Pointers, Stack, Recursion| Easy  | Easy       |
+| 67  | 9/3   |  Palindrome Linked List                                 | Linked List, Two Pointers, Stack, Recursion| Easy  | Easy       |
 ---
 
 ## 📌 Problem Links
