@@ -158,6 +158,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 65. [Largest Number](https://leetcode.com/problems/largest-number/description/)
 66. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
 67. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/1958959028/)
+68. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+    
 </details>
 
 
