@@ -180,6 +180,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
   <i>Consistency over Intensity | One Problem at a Time</i>
 </p>
 
+### Pattern Tracker - [DSA-Pattern-Tracker]()
+
 <p align="center">
   Made with ❤️ and ☕ by <a href="https://github.com/Coddiction-101">Coddiction-101</a>
 </p>
