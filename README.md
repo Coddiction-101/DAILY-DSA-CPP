@@ -162,7 +162,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 67. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/1958959028/)
 68. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 69. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
-70. [](https://leetcode.com/problems/running-sum-of-1d-array/)
+70. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
     
 </details>
 
