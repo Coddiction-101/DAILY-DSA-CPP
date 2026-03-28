@@ -86,7 +86,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 67  | 9/3   | Palindrome Linked List                                  | Linked List, Two Pointers, Stack, Recursion| Easy  | Easy       |
 | 68  | 10/3  | First Unique Character in a String                      | String, Hashing, Frequency Array                   | Easy       |
 | 69  | 11/3  | Permutation in String                                   | Hash Table, String, Two Pointers, Sliding Window   | Medium     | 
-| 70  | 12/3  |
+| 70  | 12/3  | Running Sum of 1d Array                                 | Array, Prefix Sum
  
 ## 📌 Problem Links
 
