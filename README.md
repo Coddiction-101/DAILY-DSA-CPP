@@ -87,6 +87,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 68  | 10/3  | First Unique Character in a String                      | String, Hashing, Frequency Array                   | Easy       |
 | 69  | 11/3  | Permutation in String                                   | Hash Table, String, Two Pointers, Sliding Window   | Medium     | 
 | 70  | 12/3  | Running Sum of 1d Array                                 | Array, Prefix Sum                                  | Easy       |
+| 71  | 12/3  | Find Pivot Index                                        | Array, Prefix Sum                                  | Easy       |
  
 ## 📌 Problem Links
 
