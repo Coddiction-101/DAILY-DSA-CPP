@@ -166,6 +166,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 69. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 70. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 71. [Find Pivot Number](https://leetcode.com/problems/find-pivot-index/description/)
+72. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
     
 </details>
 
