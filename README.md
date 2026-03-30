@@ -88,6 +88,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 69  | 11/3  | Permutation in String                                   | Hash Table, String, Two Pointers, Sliding Window   | Medium     | 
 | 70  | 12/3  | Running Sum of 1d Array                                 | Array, Prefix Sum                                  | Easy       |
 | 71  | 12/3  | Find Pivot Index                                        | Array, Prefix Sum                                  | Easy       |
+| 72  | 13/3  |
  
 ## 📌 Problem Links
 
