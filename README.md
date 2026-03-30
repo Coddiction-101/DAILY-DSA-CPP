@@ -189,9 +189,9 @@ Commitment: Solve at least one DSA problem **Daily** in C++
  ---
 </p>
 
-
 <p align="center">
-   Pattern Tracker: [DSA-Pattern-Tracker](https://github.com/Coddiction-101/DSA-Pattern-Tracker/tree/main)
- </p>
+  Pattern Tracker: <a href="https://github.com/Coddiction-101/DSA-Pattern-Tracker/tree/main">DSA-Pattern-Tracker</a>
+</p>
+
 
 ---
