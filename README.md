@@ -167,7 +167,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 70. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 71. [Find Pivot Number](https://leetcode.com/problems/find-pivot-index/description/)
 72. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
-    
+73. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 </details>
 
 
@@ -184,7 +184,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ---
 
 <p align="center">
-  <b>Started: January 1, 2026 | Current: Day 71 | Target: 300+ Problems</b><br>
+  <b>Started: January 1, 2026 | Current: Day 73| Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
  ---
 </p>
