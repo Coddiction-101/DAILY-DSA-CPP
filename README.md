@@ -89,7 +89,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 70  | 12/3  | Running Sum of 1d Array                                 | Array, Prefix Sum                                  | Easy       |
 | 71  | 12/3  | Find Pivot Index                                        | Array, Prefix Sum                                  | Easy       |
 | 72  | 13/3  | Range Sum Query - Immutable                             | Array, Prefix Sum                                  | Easy       |
- 
+| 73	 | 14/3	Ransom Note	Array, Hashing (Frequency Count)	Easy
 ## 📌 Problem Links
 
 <details>
