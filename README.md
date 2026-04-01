@@ -90,7 +90,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 71  | 12/3  | Find Pivot Index                                        | Array, Prefix Sum                                  | Easy       |
 | 72  | 13/3  | Range Sum Query - Immutable                             | Array, Prefix Sum                                  | Easy       |
 | 73  | 14/3  |	Ransom Note	                                            | Array, Hashing (Frequency Count)	                 | Easy       |
-| 74  | 15/3
+| 74  | 15/3  | Longest Repeating Character Replacement                 | Array, Hash Table, Sliding Window                  | Medium      |
+
 ## 📌 Problem Links
 
 <details>
