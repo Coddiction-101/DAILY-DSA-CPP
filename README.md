@@ -170,6 +170,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 71. [Find Pivot Number](https://leetcode.com/problems/find-pivot-index/description/)
 72. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 73. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
+74. []()
 </details>
 
 
