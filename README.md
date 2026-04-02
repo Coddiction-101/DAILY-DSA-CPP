@@ -91,6 +91,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 72  | 13/3  | Range Sum Query - Immutable                             | Array, Prefix Sum                                  | Easy       |
 | 73  | 14/3  |	Ransom Note	                                            | Array, Hashing (Frequency Count)	                 | Easy       |
 | 74  | 15/3  | Longest Repeating Character Replacement                 | Array, Hash Table, Sliding Window                  | Medium      |
+| 75  | 16/3  | Shuffle the Array                                       | Array, Index Mapping                               | Easy        |
 
 ## 📌 Problem Links
 
