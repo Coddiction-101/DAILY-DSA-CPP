@@ -7,7 +7,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
 
-**Current Streak:** 74 Days ✅
+**Current Streak:** 75 Days ✅
 
 **Target:** 300+
 
