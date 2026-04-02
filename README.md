@@ -187,13 +187,13 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ---
 
 <p align="center">
-  <b>Started: January 1, 2026 | Current: Day 74 | Target: 300+ Problems</b><br>
+  <b>Started: January 1, 2026 | Current: Day 75 | Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
  ---
 </p>
 
 <p align="center">
-  Pattern Tracker: <a href="https://github.com/Coddiction-101/DSA-Pattern-Tracker/tree/main">DSA-Pattern-Tracker</a>
+  Pattern Playbook: <a href="https://github.com/Coddiction-101/DSA-Patterns-Playbook">DSA-Pattern-Tracker</a>
 </p>
 
 
