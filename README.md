@@ -171,6 +171,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 72. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 73. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 74. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+75. [Shuffle the Arrau](https://leetcode.com/problems/shuffle-the-array/description/)
 </details>
 
 
