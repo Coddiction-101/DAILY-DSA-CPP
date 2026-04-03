@@ -173,7 +173,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 73. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 74. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 75. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
-76. [](https://leetcode.com/problems/isomorphic-strings/description/)
+76. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 </details>
 
 
