@@ -175,7 +175,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 74. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 75. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 76. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-77. [](https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array)
+77. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array)
 </details>
 
 
