@@ -92,7 +92,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 73  | 14/3  |	Ransom Note	                                            | Array, Hashing (Frequency Count)	                 | Easy       |
 | 74  | 15/3  | Longest Repeating Character Replacement                 | Array, Hash Table, Sliding Window                  | Medium     |
 | 75  | 16/3  | Shuffle the Array                                       | Array, Index Mapping                               | Easy       |
-| 76  | 17/3  | Isomorphic Strings                                      | Hashing, Mapping                                   | Easy      |
+| 76  | 17/3  | Isomorphic Strings                                      | Hashing, Mapping                                   | Easy       |
+| 77  | 18/3  | Assign Cookies                                         | Greedy, Sorting, Two Pointers                       | Easy       |
 ## 📌 Problem Links
 
 <details>
