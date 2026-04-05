@@ -1,36 +1,3 @@
-/*
- * Problem: 121. Best Time to Buy and Sell Stock (LeetCode)
- * Date: January 02, 2026
- * Difficulty: Easy
- * Topics: Arrays, Greedy, One Pass
- * Time Complexity: O(n)
- * Space Complexity: O(1)
- * Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
- *
- * Problem Statement:
- * You are given an array prices where prices[i] is the price of a given stock on day i.
- * You want to maximize profit by:
- *   - Buying on one day
- *   - Selling on a different day in the future (selling day > buying day)
- * Return the maximum profit. If you cannot make any profit, return 0.
- *
- * Examples:
- *   Input:  prices = [7,1,5,3,6,4]
- *   Output: 5
- *   Explanation: Buy on day 2 (price = 1), sell on day 5 (price = 6), profit = 6 - 1 = 5.
- *
- *   Input:  prices = [7,6,4,3,1]
- *   Output: 0
- *   Explanation: No days to make a positive profit.
- *
- * Key Insight:
- * We want maximum profit = max(sell_price - buy_price) with sell_day > buy_day.
- * For each day, we want to:
- *   - Keep track of the minimum price so far (best day to buy until now).
- *   - Treat current day as the sell day and compute profit = current_price - min_price_so_far.
- *   - Update max profit if this is better than previous one.
- */
-
 #include <iostream>
 #include <vector>
 #include <climits>
