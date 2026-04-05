@@ -1,27 +1,3 @@
-/*
- * Problem: 1. Two Sum (LeetCode)
- * Date: January 01, 2026
- * Difficulty: Easy
- * Topics: Array, Hash Table
- * Time Complexity: O(n)
- * Space Complexity: O(n) 
- * Problem Statement:
- * Given an array of integers nums and an integer target, return indices of the two numbers
- * such that they add up to target. You may assume that each input would have exactly one solution,
- * and you may not use the same element twice.
- *
- * Example:
- *   Input: nums = [2,7,11,15], target = 9
- *   Output: [0,1]
- *   Explanation: Because nums[0] + nums[1] = 2 + 7 = 9, we return [0, 1].
- *
- * Key Insight:
- * - We want to find two indices i, j such that nums[i] + nums[j] = target.
- * - For each nums[i], we need to check if (target - nums[i]) already exists in the array.
- * - We can use an unordered_map to store {value: index} for O(1) lookup.
- * - As we iterate, we add current nums[i] → i to map, so future elements can find it.
- */
-
 #include <bits/stdc++.h>
 using namespace std;
 
