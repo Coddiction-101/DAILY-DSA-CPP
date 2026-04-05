@@ -176,6 +176,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 75. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 76. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 77. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array)
+78. [](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 </details>
 
 
