@@ -93,7 +93,8 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 74  | 15/3  | Longest Repeating Character Replacement                 | Array, Hash Table, Sliding Window                  | Medium     |
 | 75  | 16/3  | Shuffle the Array                                       | Array, Index Mapping                               | Easy       |
 | 76  | 17/3  | Isomorphic Strings                                      | Hashing, Mapping                                   | Easy       |
-| 77  | 18/3  | Assign Cookies                                         | Greedy, Sorting, Two Pointers                       | Easy       |
+| 77  | 18/3  | Assign Cookies                                          | Greedy, Sorting, Two Pointers                      | Easy       |
+| 78  | 19/3  | Find the Difference of Two Arrays                       | Array, Hash Table                                  | Easy       |
 ## 📌 Problem Links
 
 <details>
