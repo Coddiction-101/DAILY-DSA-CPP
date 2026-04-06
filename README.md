@@ -179,7 +179,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 76. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
 77. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array)
 78. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
-79. []()
+79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
 </details>
 
 
