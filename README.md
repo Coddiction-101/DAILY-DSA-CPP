@@ -95,6 +95,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 76  | 17/3  | Isomorphic Strings                                      | Hashing, Mapping                                   | Easy       |
 | 77  | 18/3  | Assign Cookies                                          | Greedy, Sorting, Two Pointers                      | Easy       |
 | 78  | 19/3  | Find the Difference of Two Arrays                       | Array, Hash Table                                  | Easy       |
+| 79  | 19/3  | Find the Difference of Two Arrays                       | Array, Hash Table                                  | Easy       |
 ## 📌 Problem Links
 
 <details>
