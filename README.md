@@ -182,7 +182,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 77. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array)
 78. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
 79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
-81. [Happy Number](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
 </details>
 
 
