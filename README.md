@@ -184,6 +184,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
 80. [Find All Anagrams in a String](https://leetcode.com/problems/happy-number/description/)
 81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
+    
 </details>
 
 
@@ -200,7 +201,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 ---
 
 <p align="center">
-  <b>Started: January 1, 2026 | Current: Day 80 | Target: 300+ Problems</b><br>
+  <b>Started: January 1, 2026 | Current: Day 81 | Target: 300+ Problems</b><br>
   <i>Consistency over Intensity | One Problem at a Time</i>
  ---
 </p>
