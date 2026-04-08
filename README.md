@@ -97,7 +97,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 78  | 19/3  | Find the Difference of Two Arrays                       | Array, Hash Table                                  | Easy       |
 | 79  | 19/3  | Unique Number of Occurrences                            | Array, Hash Table                                  | Easy       |
 | 80  | 20/3  | Find All Anagrams in a String                           | String, Hash Table, Sliding Window                 | Medium     |
-| 81  | 20/3  | Happy Number                                            | Hash Table, Two Pointer                            | Easy       |
+| 81  | 21/3  | Happy Number                                            | Hash Table, Two Pointer                            | Easy       |
 
 ## 📌 Problem Links
 
