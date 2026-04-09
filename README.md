@@ -185,6 +185,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
 80. [Find All Anagrams in a String](https://leetcode.com/problems/happy-number/description/)
 81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
+82. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
     
 </details>
 
