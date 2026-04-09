@@ -98,6 +98,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 79  | 19/3  | Unique Number of Occurrences                            | Array, Hash Table                                  | Easy       |
 | 80  | 20/3  | Find All Anagrams in a String                           | String, Hash Table, Sliding Window                 | Medium     |
 | 81  | 21/3  | Happy Number                                            | Hash Table, Two Pointer                            | Easy       |
+| 82  | 22/3  | Isomorphic Strings                                       | Hash Table, String                                | Easy       |
 
 ## 📌 Problem Links
 
