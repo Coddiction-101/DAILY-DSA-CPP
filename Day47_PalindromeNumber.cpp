@@ -2,8 +2,7 @@ class Solution {
 public:
     bool isPalindrome(int x) {
 
-        // Negative numbers are never palindrome
-        if (x < 0) return false;
+         if (x < 0) return false;
 
         int original = x;
         long long reversed = 0;
