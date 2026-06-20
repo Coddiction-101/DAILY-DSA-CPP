@@ -1,29 +1,17 @@
-#include <iostream>
-using namespace std;
-
-int climbingStairs(int n)
+class Solution
 {
-    if (n <= 2)
-        return n;
-
-    int prev2 = 1;
-    int prev1 = 2;
-
-    for (int i = 3; i <= n; i++)
+public:
+    int climbStairs(int n)
     {
-        int curr = prev1 + prev2;
-        prev2 = prev1;
-        prev1 = curr;
+        int a = 1, b = 1;
+
+        for (int i = 0; i < n; i++)
+        {
+            int temp = a;
+            a = b;
+            b += temp;
+        }
+
+        return a;
     }
-    return prev1;
-}
-
-int main()
-{
-    int n;
-    cout << "Enter n: ";
-    cin >> n;
-
-    cout << "Answer: " << climbingStairs(n);
-    return 0;
-}
+};
