@@ -1,27 +1,23 @@
-#include <iostream>
-#include <string>
-using namespace std;
-
-int characterReplacement(string s, int k)
+class Solution
 {
-    int freq[26] = {0};
-    int left = 0, maxFreq = 0, maxLen = 0;
-
-    for (int right = 0; right < s.size(); right++)
+public:
+    int characterReplacement(string s, int k)
     {
-        maxFreq = max(maxFreq, ++freq[s[right] - 'A']);
+        int freq[26] = {0};
+        int left = 0;
+        int maxFreq = 0;
+        int maxLen = 0;
 
-        while ((right - left + 1) - maxFreq > k)
-            freq[s[left++] - 'A']--;
+        for (int right = 0; right < s.size(); right++)
+        {
+            maxFreq = max(maxFreq, ++freq[s[right] - 'A']);
 
-        maxLen = max(maxLen, right - left + 1);
+            while ((right - left + 1) - maxFreq > k)
+                freq[s[left++] - 'A']--;
+
+            maxLen = max(maxLen, right - left + 1);
+        }
+
+        return maxLen;
     }
-
-    return maxLen;
-}
-
-int main()
-{
-    cout << characterReplacement("AABABBA", 1);
-    return 0;
-}
+};
