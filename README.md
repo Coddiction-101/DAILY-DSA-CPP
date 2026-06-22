@@ -7,7 +7,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📊 Overall Progress
   
-**Current Streak:**  82 Days ✅
+**Current Streak:**  81 Days ✅
 
 **Target:** 300+
 
@@ -98,8 +98,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 79  | 19/3  | Unique Number of Occurrences                            | Array, Hash Table                                  | Easy       |
 | 80  | 20/3  | Find All Anagrams in a String                           | String, Hash Table, Sliding Window                 | Medium     |
 | 81  | 21/3  | Happy Number                                            | Hash Table, Two Pointer                            | Easy       |
-| 82  | 22/3  | Isomorphic Strings                                       | Hash Table, String                                | Easy       |
-
+ 
 ## 📌 Problem Links
 
 <details>
@@ -186,8 +185,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
 80. [Find All Anagrams in a String](https://leetcode.com/problems/happy-number/description/)
 81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
-82. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-    
+     
 </details>
 
 
