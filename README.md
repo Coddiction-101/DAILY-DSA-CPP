@@ -195,7 +195,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 - [x] Day 1 - Started the journey (Jan 1, 2026)
 - [x] Day 10 - First 10 days streak
-- [x] ✅ Day 30 - One month consistent
+- [x] Day 30 - One month consistent
 - [x] 🎉 **Day 50 - HALFWAY TO 100! MAJOR MILESTONE!** 🎉
 - [ ] Day 100 - Complete Phase 1
 - [ ] 🎯 Day 200 - 2/3rd completion
