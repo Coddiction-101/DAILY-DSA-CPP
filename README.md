@@ -186,6 +186,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
 80. [Find All Anagrams in a String](https://leetcode.com/problems/happy-number/description/)
 81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
+82. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
      
 </details>
 
@@ -196,7 +197,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 - [x] ✅ Day 10 - First 10 days streak
 - [x] ✅ Day 30 - One month consistent
 - [x] 🎉 **Day 50 - HALFWAY TO 100! MAJOR MILESTONE!** 🎉
-- [ ] 🎯 Day 100 - Complete Phase 1
+- [ ] Day 100 - Complete Phase 1
 - [ ] 🎯 Day 200 - 2/3rd completion
 - [ ] 🎯 Day 300+ - Target achieved!
 
