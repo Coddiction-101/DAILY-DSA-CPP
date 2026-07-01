@@ -98,7 +98,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 79  | 19/3  | Unique Number of Occurrences                            | Array, Hash Table                                  | Easy       |
 | 80  | 20/3  | Find All Anagrams in a String                           | String, Hash Table, Sliding Window                 | Medium     |
 | 81  | 21/3  | Happy Number                                            | Hash Table, Two Pointer                            | Easy       |
-| 83  |       |                                                         |                                                    |            |
+| 83  |       | Rotate List                                             |                                                    |            |
  
 ## 📌 Problem Links
 
@@ -198,20 +198,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 - [x] Day 30 - One month consistent
 - [x] **Day 50 - HALFWAY TO 100! MAJOR MILESTONE!** 🎉
 - [ ] Day 100 - Complete Phase 1
-- [ ] 🎯 Day 200 - 2/3rd completion
-- [ ] 🎯 Day 300+ - Target achieved!
-
----
-
-<p align="center">
-  <b>Started: January 1, 2026 | Current: Day 82 | Target: 300+ Problems</b><br>
-  <i>Consistency over Intensity | One Problem at a Time</i>
- ---
-</p>
-
-<p align="center">
-  Pattern Playbook: <a href="https://github.com/Coddiction-101/DSA-Patterns-Playbook">DSA-Pattern-Tracker</a>
-</p>
-
+- [ ] Day 200 - 2/3rd completion
+- [ ] Day 300+ - Target achieved!
 
 ---
