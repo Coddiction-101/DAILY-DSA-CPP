@@ -1,13 +1,12 @@
 <h1 align="center"> Daily DSA in C++ – 2026</h1>
 
-Started on **January 1, 2026**  
 Commitment: Solve at least one DSA problem **Daily** in C++
 
 ---
 
 ## 📊 Overall Progress
-  
-**Current Streak:**  83 Days ✅
+
+**Current Streak:** 83 Days ✅
 
 **Target:** 300+
 
@@ -15,92 +14,92 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 
 ## 📚 Daily Solutions
 
-| Day | Date  | Problem                                                | Topics                                              | Difficulty |
-| --- | ----- | ------------------------------------------------------ | --------------------------------------------------- | ---------- |
-| 1   | 1/1   | Two Sum                                                | Arrays, Hashing                                     | Easy       |
-| 2   | 2/1   | Best Time to Buy and Sell Stock                        | Arrays, Greedy                                      | Easy       |
-| 3   | 3/1   | Contains Duplicate                                     | Arrays, Hashing                                     | Easy       |
-| 4   | 4/1   | Maximum Subarray                                       | Arrays, DP (Kadane)                                 | Medium     |
-| 5   | 5/1   | Product of Array Except Self                           | Arrays, Prefix/Suffix                               | Medium     |
-| 6   | 6/1   | Move Zeroes                                            | Arrays, Two Pointers                                | Easy       |
-| 7   | 7/1   | Rotate Array                                           | Arrays, Math, Two Pointers                          | Medium     |
-| 8   | 8/1   | Climbing Stairs                                        | DP                                                  | Easy       |
-| 9   | 9/1   | Maximum Product Subarray                               | Arrays, DP                                          | Medium     |
-| 10  | 10/1  | Merge Intervals                                        | Arrays, Sorting                                     | Medium     |
-| 11  | 11/1  | Candy                                                  | Arrays, Greedy                                      | Hard       |
-| 12  | 12/1  | Missing Number                                         | Arrays, Math, Bit Manipulation                      | Easy       |
-| 13  | 13/1  | Remove Element                                         | Arrays, Two Pointers                                | Easy       |
-| 14  | 14/1  | Add Digits                                             | Math                                                | Easy       |
-| 15  | 15/1  | Valid Anagram                                          | Hash Table, String                                  | Easy       |
-| 16  | 16/1  | Remove Duplicates from Sorted Array                    | Arrays, Two Pointers                                | Easy       |
-| 17  | 17/1  | Group Anagrams                                         | Hash Table, String                                  | Medium     |
-| 18  | 18/1  | Search Insert Position                                 | Array, Binary Search                                | Easy       |
-| 19  | 19/1  | Merge Sorted Array                                     | Arrays, Two Pointers                                | Easy       |
-| 20  | 20/1  | Find Peak Element                                      | Arrays, Binary Search                               | Medium     |
-| 21  | 21/1  | Find the Difference                                    | Strings, Bit Manipulation                           | Easy       |
-| 22  | 22/1  | Jump Game                                              | Arrays, Greedy                                      | Medium     |
-| 23  | 23/1  | Find Minimum in Rotated Sorted Array                   | Array, Binary Search                                | Medium     |
-| 24  | 24/1  | Relative Ranks                                         | Arrays, Sorting                                     | Easy       |
-| 25  | 25/1  | Find First and Last Position of Element                | Array, Binary Search                                | Medium     |
-| 26  | 26/1  | Binary Search                                          | Array, Binary Search                                | Easy       |
-| 27  | 27/1  | Sort Colors                                            | Arrays, Two Pointers                                | Medium     |
-| 28  | 28/1  | Longest Substring Without Repeating Characters         | Sliding Window, Hashing                             | Medium     |
-| 29  | 29/1  | Top K Frequent Elements                                | HashMap, Bucket Sort                                | Medium     |
-| 30  | 30/1  | Trapping Rain Water                                    | Two Pointers, Prefix Max                            | Hard       |
-| 31  | 31/1  | 3Sum                                                   | Arrays, Two Pointers, Sorting                       | Medium     |
-| 32  | 1/2   | Minimum Window Substring                               | Hash Table, String, Sliding Window                  | Hard       |
-| 33  | 2/2   | Can Place Flowers                                      | Arrays, Greedy                                      | Easy       |
-| 34  | 3/2   | Kids With Greatest Number of Candies                   | Arrays                                              | Easy       |
-| 35  | 4/2   | Reverse Words in a String                              | Strings, Two Pointers                               | Medium     |
-| 36  | 5/2   | Best Time to Buy and Sell Stock III                    | Arrays, Dynamic Programming                         | Hard       |
-| 37  | 6/2   | Palindromic Substrings                                 | String, Dynamic Programming                         | Medium     |
-| 38  | 7/2   | Max Consecutive Ones III                               | Array, Sliding Window, Prefix Sum                   | Medium     |
-| 39  | 8/2   | Find the Highest Altitude                              | Array, Prefix Sum                                   | Easy       |
-| 40  | 10/2  | Search in Rotated Sorted Array                         | Array, Binary Search                                | Medium     |
-| 41  | 11/2  | Majority Element                                       | Array, Hash Table, Voting Algorithm                 | Easy       |
-| 42  | 12/2  | Check if Array is Good                                 | Array, Frequency Counting, Hashing                  | Easy       |
-| 43  | 13/2  | Single Number                                          | Array, Bit Manipulation                             | Easy       |
-| 44  | 14/2  | Valid Parentheses                                      | String, Stack                                       | Easy       |
-| 45  | 15/2  | Second Largest Digit in a String                       | String, Hashtable                                   | Easy       |
-| 46  | 16/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
-| 47  | 17/2  | Palindrome Number                                      | Math                                                | Easy       |
-| 48  | 18/2  | Reverse Integer                                        | Math                                                | Medium     |
-| 49  | 19/2  | Power of Two                                           | Math, Bit Manipulation                              | Easy       |
-| 50  | 20/2  | Reverse String II                                      | String, Two Pointers                                | Easy       |
-| 51  | 21/2  | Sort an Array                                          | Array, Sorting, Divide and Conquer                  | Medium     |
-| 52  | 22/2  | Ugly Number                                            | Math                                                | Easy       |
-| 53  | 23/2  | Find All Numbers Disappeared in an Array               | Array, Hash Table                                   | Easy       |
-| 54  | 24/2  | Plus One                                               | Array, Math                                         | Easy       |
-| 55  | 25/2  | Longest Subarray of 1's After Deleting One Element     | Array, Sliding Window                               | Medium     |
-| 56  | 26/2  | Find Numbers with Even Number of Digits                | Array, Math                                         | Easy       |
-| 57  | 27/2  | to Lower case                                          | String                                              | Easy       |
-| 58  | 28/2  | Reverse Words in a String III                          | Two Pointers, String                                | Easy       |
-| 59  | 1/3   | Reverse Linked List                                    | Linked List, Recursion                              | Easy       |
-| 60  | 2/3   | Find All Numbers Disappeared in an Array               | Array, Index Mapping (Cyclic Sort)                  | Easy       |
-| 61  | 3/3   | Backspace String Compare                               | Two Pointers, String                                | Easy       |
-| 62  | 4/3   | Long Pressed Name                                      | Two Pointers, String, Greedy                        | Easy       |
-| 63  | 5/3   | Number of Subsequences That Satisfy the Given Sum Condition | Two Pointers, Array, Sorting, Greedy           | Medium     |
-| 64  | 6/3   | Append Characters to String to Make Subsequence         | Two Pointers, String, Greedy                       | Medium     |
-| 65  | 7/3   | Largest Number                                          | Array, String, Greedy, Sorting                     | Medium     | 
-| 66  | 8/3   | Climbing Stairs                                         | Math, DP                                           | Easy       |
-| 67  | 9/3   | Palindrome Linked List                                  | Linked List, Two Pointers, Stack, Recursion| Easy  | Easy       |
-| 68  | 10/3  | First Unique Character in a String                      | String, Hashing, Frequency Array                   | Easy       |
-| 69  | 11/3  | Permutation in String                                   | Hash Table, String, Two Pointers, Sliding Window   | Medium     | 
-| 70  | 12/3  | Running Sum of 1d Array                                 | Array, Prefix Sum                                  | Easy       |
-| 71  | 12/3  | Find Pivot Index                                        | Array, Prefix Sum                                  | Easy       |
-| 72  | 13/3  | Range Sum Query - Immutable                             | Array, Prefix Sum                                  | Easy       |
-| 73  | 14/3  |	Ransom Note	                                            | Array, Hashing (Frequency Count)	                 | Easy       |
-| 74  | 15/3  | Longest Repeating Character Replacement                 | Array, Hash Table, Sliding Window                  | Medium     |
-| 75  | 16/3  | Shuffle the Array                                       | Array, Index Mapping                               | Easy       |
-| 76  | 17/3  | Isomorphic Strings                                      | Hashing, Mapping                                   | Easy       |
-| 77  | 18/3  | Assign Cookies                                          | Greedy, Sorting, Two Pointers                      | Easy       |
-| 78  | 19/3  | Find the Difference of Two Arrays                       | Array, Hash Table                                  | Easy       |
-| 79  | 19/3  | Unique Number of Occurrences                            | Array, Hash Table                                  | Easy       |
-| 80  | 20/3  | Find All Anagrams in a String                           | String, Hash Table, Sliding Window                 | Medium     |
-| 81  | 21/3  | Happy Number                                            | Hash Table, Two Pointer                            | Easy       |
-| 82  |       | Rotate List                                             | Linked List, Two pointers                          | Medium     |
-| 83  |       | Special Array I                                         | Array                                              | Easy       |
- 
+| Day | Problem                                                     | Topics                                              | Difficulty |
+| --- | ------------------------------------------------------------ | ---------------------------------------------------- | ---------- |
+| 1   | Two Sum                                                     | Arrays, Hashing                                     | Easy       |
+| 2   | Best Time to Buy and Sell Stock                             | Arrays, Greedy                                      | Easy       |
+| 3   | Contains Duplicate                                          | Arrays, Hashing                                     | Easy       |
+| 4   | Maximum Subarray                                            | Arrays, DP (Kadane)                                 | Medium     |
+| 5   | Product of Array Except Self                                | Arrays, Prefix/Suffix                               | Medium     |
+| 6   | Move Zeroes                                                 | Arrays, Two Pointers                                | Easy       |
+| 7   | Rotate Array                                                | Arrays, Math, Two Pointers                          | Medium     |
+| 8   | Climbing Stairs                                             | DP                                                  | Easy       |
+| 9   | Maximum Product Subarray                                    | Arrays, DP                                          | Medium     |
+| 10  | Merge Intervals                                             | Arrays, Sorting                                     | Medium     |
+| 11  | Candy                                                       | Arrays, Greedy                                      | Hard       |
+| 12  | Missing Number                                              | Arrays, Math, Bit Manipulation                      | Easy       |
+| 13  | Remove Element                                              | Arrays, Two Pointers                                | Easy       |
+| 14  | Add Digits                                                  | Math                                                | Easy       |
+| 15  | Valid Anagram                                               | Hash Table, String                                  | Easy       |
+| 16  | Remove Duplicates from Sorted Array                         | Arrays, Two Pointers                                | Easy       |
+| 17  | Group Anagrams                                              | Hash Table, String                                  | Medium     |
+| 18  | Search Insert Position                                      | Array, Binary Search                                | Easy       |
+| 19  | Merge Sorted Array                                          | Arrays, Two Pointers                                | Easy       |
+| 20  | Find Peak Element                                           | Arrays, Binary Search                               | Medium     |
+| 21  | Find the Difference                                         | Strings, Bit Manipulation                           | Easy       |
+| 22  | Jump Game                                                   | Arrays, Greedy                                      | Medium     |
+| 23  | Find Minimum in Rotated Sorted Array                        | Array, Binary Search                                | Medium     |
+| 24  | Relative Ranks                                              | Arrays, Sorting                                     | Easy       |
+| 25  | Find First and Last Position of Element                     | Array, Binary Search                                | Medium     |
+| 26  | Binary Search                                               | Array, Binary Search                                | Easy       |
+| 27  | Sort Colors                                                 | Arrays, Two Pointers                                | Medium     |
+| 28  | Longest Substring Without Repeating Characters              | Sliding Window, Hashing                             | Medium     |
+| 29  | Top K Frequent Elements                                     | HashMap, Bucket Sort                                | Medium     |
+| 30  | Trapping Rain Water                                         | Two Pointers, Prefix Max                            | Hard       |
+| 31  | 3Sum                                                        | Arrays, Two Pointers, Sorting                       | Medium     |
+| 32  | Minimum Window Substring                                    | Hash Table, String, Sliding Window                  | Hard       |
+| 33  | Can Place Flowers                                           | Arrays, Greedy                                      | Easy       |
+| 34  | Kids With Greatest Number of Candies                        | Arrays                                              | Easy       |
+| 35  | Reverse Words in a String                                   | Strings, Two Pointers                               | Medium     |
+| 36  | Best Time to Buy and Sell Stock III                         | Arrays, Dynamic Programming                         | Hard       |
+| 37  | Palindromic Substrings                                      | String, Dynamic Programming                         | Medium     |
+| 38  | Max Consecutive Ones III                                    | Array, Sliding Window, Prefix Sum                   | Medium     |
+| 39  | Find the Highest Altitude                                   | Array, Prefix Sum                                   | Easy       |
+| 40  | Search in Rotated Sorted Array                              | Array, Binary Search                                | Medium     |
+| 41  | Majority Element                                            | Array, Hash Table, Voting Algorithm                 | Easy       |
+| 42  | Check if Array is Good                                      | Array, Frequency Counting, Hashing                  | Easy       |
+| 43  | Single Number                                               | Array, Bit Manipulation                             | Easy       |
+| 44  | Valid Parentheses                                           | String, Stack                                       | Easy       |
+| 45  | Second Largest Digit in a String                            | String, Hashtable                                   | Easy       |
+| 46  | Sort an Array                                               | Array, Sorting, Divide and Conquer                  | Medium     |
+| 47  | Palindrome Number                                           | Math                                                | Easy       |
+| 48  | Reverse Integer                                             | Math                                                | Medium     |
+| 49  | Power of Two                                                | Math, Bit Manipulation                              | Easy       |
+| 50  | Reverse String II                                           | String, Two Pointers                                | Easy       |
+| 51  | Sort an Array                                               | Array, Sorting, Divide and Conquer                  | Medium     |
+| 52  | Ugly Number                                                 | Math                                                | Easy       |
+| 53  | Find All Numbers Disappeared in an Array                    | Array, Hash Table                                   | Easy       |
+| 54  | Plus One                                                    | Array, Math                                         | Easy       |
+| 55  | Longest Subarray of 1's After Deleting One Element          | Array, Sliding Window                               | Medium     |
+| 56  | Find Numbers with Even Number of Digits                     | Array, Math                                         | Easy       |
+| 57  | To Lower Case                                               | String                                              | Easy       |
+| 58  | Reverse Words in a String III                               | Two Pointers, String                                | Easy       |
+| 59  | Reverse Linked List                                         | Linked List, Recursion                              | Easy       |
+| 60  | Find All Numbers Disappeared in an Array                    | Array, Index Mapping (Cyclic Sort)                  | Easy       |
+| 61  | Backspace String Compare                                    | Two Pointers, String                                | Easy       |
+| 62  | Long Pressed Name                                           | Two Pointers, String, Greedy                        | Easy       |
+| 63  | Number of Subsequences That Satisfy the Given Sum Condition | Two Pointers, Array, Sorting, Greedy                | Medium     |
+| 64  | Append Characters to String to Make Subsequence             | Two Pointers, String, Greedy                        | Medium     |
+| 65  | Largest Number                                              | Array, String, Greedy, Sorting                      | Medium     |
+| 66  | Climbing Stairs                                             | Math, DP                                            | Easy       |
+| 67  | Palindrome Linked List                                      | Linked List, Two Pointers, Stack, Recursion         | Easy       |
+| 68  | First Unique Character in a String                          | String, Hashing, Frequency Array                    | Easy       |
+| 69  | Permutation in String                                       | Hash Table, String, Two Pointers, Sliding Window    | Medium     |
+| 70  | Running Sum of 1d Array                                     | Array, Prefix Sum                                   | Easy       |
+| 71  | Find Pivot Index                                            | Array, Prefix Sum                                   | Easy       |
+| 72  | Range Sum Query - Immutable                                 | Array, Prefix Sum                                   | Easy       |
+| 73  | Ransom Note                                                 | Array, Hashing (Frequency Count)                    | Easy       |
+| 74  | Longest Repeating Character Replacement                     | Array, Hash Table, Sliding Window                   | Medium     |
+| 75  | Shuffle the Array                                           | Array, Index Mapping                                | Easy       |
+| 76  | Isomorphic Strings                                          | Hashing, Mapping                                    | Easy       |
+| 77  | Assign Cookies                                              | Greedy, Sorting, Two Pointers                       | Easy       |
+| 78  | Find the Difference of Two Arrays                           | Array, Hash Table                                   | Easy       |
+| 79  | Unique Number of Occurrences                                | Array, Hash Table                                   | Easy       |
+| 80  | Find All Anagrams in a String                               | String, Hash Table, Sliding Window                  | Medium     |
+| 81  | Happy Number                                                | Hash Table, Two Pointer                             | Easy       |
+| 82  | Rotate List                                                 | Linked List, Two Pointers                           | Medium     |
+| 83  | Special Array I                                             | Array                                              |            |
+
 ## 📌 Problem Links
 
 <details>
@@ -165,42 +164,31 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 57. [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 58. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 59. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
-60. [FindAllNumbersDisappearedinanArray](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
+60. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/)
 61. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 62. [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/)
 63. [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/description/)
 64. [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/description/)
 65. [Largest Number](https://leetcode.com/problems/largest-number/description/)
 66. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
-67. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/1958959028/)
+67. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
 68. [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
 69. [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 70. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
-71. [Find Pivot Number](https://leetcode.com/problems/find-pivot-index/description/)
+71. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 72. [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)
 73. [Ransom Note](https://leetcode.com/problems/ransom-note/description/)
 74. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 75. [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/)
 76. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
-77. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/?envType=problem-list-v2&envId=array)
+77. [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/)
 78. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
-79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=study-plan-v2&envId=leetcode-75)
-80. [Find All Anagrams in a String](https://leetcode.com/problems/happy-number/description/)
-81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
+79. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/)
+80. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+81. [Happy Number](https://leetcode.com/problems/happy-number/description/)
 82. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
-83. [Special Array 1](https://leetcode.com/problems/special-array-i/description/?envType=problem-list-v2&envId=array)
-     
+83. [Special Array I](https://leetcode.com/problems/special-array-i/description/)
+
 </details>
-
-
-## 🏆 Milestones
-
-- [x] Day 1 - Started the journey (Jan 1, 2026)
-- [x] Day 10 - First 10 days streak
-- [x] Day 30 - One month consistent
-- [x] **Day 50 - HALFWAY TO 100! MAJOR MILESTONE!** 🎉
-- [ ] Day 100 - Complete Phase 1
-- [ ] Day 200 - 2/3rd completion
-- [ ] Day 300+ - Target achieved!
 
 ---
