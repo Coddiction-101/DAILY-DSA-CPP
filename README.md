@@ -98,7 +98,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 80  | Find All Anagrams in a String                               | String, Hash Table, Sliding Window                  | Medium     |
 | 81  | Happy Number                                                | Hash Table, Two Pointer                             | Easy       |
 | 82  | Rotate List                                                 | Linked List, Two Pointers                           | Medium     |
-| 83  | Special Array I                                             | Array                                              |            |
+| 83  | Special Array I                                             | Array                                               | Easy       |
 
 ## 📌 Problem Links
 
