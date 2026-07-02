@@ -187,6 +187,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 80. [Find All Anagrams in a String](https://leetcode.com/problems/happy-number/description/)
 81. [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150)
 82. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
+83. [Special Array 1](https://leetcode.com/problems/special-array-i/description/?envType=problem-list-v2&envId=array)
      
 </details>
 
