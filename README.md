@@ -99,6 +99,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 81  | Happy Number                                                | Hash Table, Two Pointer                             | Easy       |
 | 82  | Rotate List                                                 | Linked List, Two Pointers                           | Medium     |
 | 83  | Special Array I                                             | Array                                               | Easy       |
+| 84  | Minimum Number Game                                         | Array, Sorting                                      | Easy       |
 
 ## 📌 Problem Links
 
