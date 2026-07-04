@@ -188,6 +188,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 81. [Happy Number](https://leetcode.com/problems/happy-number/description/)
 82. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
 83. [Special Array I](https://leetcode.com/problems/special-array-i/description/)
+84. [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)
 
 </details>
 
