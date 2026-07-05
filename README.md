@@ -191,6 +191,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 82. [Rotate List](https://leetcode.com/problems/rotate-list/description/)
 83. [Special Array I](https://leetcode.com/problems/special-array-i/description/)
 84. [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)
+85. [](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 
 </details>
 
