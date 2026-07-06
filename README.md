@@ -101,6 +101,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 83  | Special Array I                                             | Array                                               | Easy       |
 | 84  | Minimum Number Game                                         | Array, Sorting                                      | Easy       |
 | 85  | Search in Rotated Sorted Array II                           | Arrays, Binary Search                               | Medium     |
+| 86  | Concatenation of Array                                      | Array                                               | Medium     |
 
 ## 📌 Problem Links
 
