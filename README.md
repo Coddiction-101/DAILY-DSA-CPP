@@ -100,7 +100,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 82  | Rotate List                                                 | Linked List, Two Pointers                           | Medium     |
 | 83  | Special Array I                                             | Array                                               | Easy       |
 | 84  | Minimum Number Game                                         | Array, Sorting                                      | Easy       |
-| 85  | Search in Rotated Sorted Array II                           | Arrays, Binary Search                               | Medium       |
+| 85  | Search in Rotated Sorted Array II                           | Arrays, Binary Search                               | Medium     |
 
 ## 📌 Problem Links
 
