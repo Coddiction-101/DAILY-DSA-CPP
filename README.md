@@ -103,6 +103,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 85  | Search in Rotated Sorted Array II                           | Arrays, Binary Search                               | Medium     |
 | 86  | Concatenation of Array                                      | Array                                               | Easy       |
 | 87  | Valid Palindrome II                                         | Two Pointers, String                                | Easy       |
+| 88  | 1-bit and 2-bit Characters                                  | Array                                               | Easy       |
 
 ## 📌 Problem Links
 
