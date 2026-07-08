@@ -197,6 +197,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 85. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 86. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
 87. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
+88. [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
 
 </details>
 
