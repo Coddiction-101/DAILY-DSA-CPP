@@ -104,6 +104,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 86  | Concatenation of Array                                      | Array                                               | Easy       |
 | 87  | Valid Palindrome II                                         | Two Pointers, String                                | Easy       |
 | 88  | 1-bit and 2-bit Characters                                  | Array                                               | Easy       |
+| 89  | 1-bit and 2-bit Characters                                  | Array                                               | Easy       |
 
 ## 📌 Problem Links
 
