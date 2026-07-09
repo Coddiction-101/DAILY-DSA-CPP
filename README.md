@@ -198,6 +198,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 86. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)
 87. [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)
 88. [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/)
+89. [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)
 
 </details>
 
