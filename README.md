@@ -105,6 +105,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 87  | Valid Palindrome II                                         | Two Pointers, String                                | Easy       |
 | 88  | 1-bit and 2-bit Characters                                  | Array                                               | Easy       |
 | 89  | Add to Array-Form of Integ                                  | Array, Math                                         | Easy       |
+| 90  | Count Common Words with One Occurrence                      | Hash Map, String, Frequency Counting                 | Easy |
 
 ## 📌 Problem Links
 
