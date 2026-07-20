@@ -108,7 +108,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 90  | Count Common Words with One Occurrence                      | Hash Map, String, Frequency Counting                | Easy       |
 | 91  | Find Closest Number to Zero                                 | Array                                               | Easy       |
 | 92  | Reverse Only Letters                                        | Two Pointers, String                                | Easy       |
-| 92  | Reverse Only Letters                                        | Two Pointers, String                                | Easy       |
+| 92  | Reverse Only Letters                                        | String                                              | Easy       |
 
 
 ## 📌 Problem Links
