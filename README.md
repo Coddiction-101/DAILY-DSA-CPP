@@ -210,6 +210,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 91. [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)
 92. [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/)
 93. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
+94. [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/description/?envType=study-plan-v2&envId=leetcode-75)
 </details>
 
 ---
