@@ -109,7 +109,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 91  | Find Closest Number to Zero                                 | Array                                               | Easy       |
 | 92  | Reverse Only Letters                                        | Two Pointers, String                                | Easy       |
 | 93  | Remove Outermost Parentheses                                | String                                              | Easy       |
-| 94  | DetermineIfTwoStringsAreClose                               | Hash Table, String, Sorting, Counting               | Medium     |
+| 94  | Determine if Two Strings Are Close                          | Hash Table, String, Sorting, Counting               | Medium     |
 
 
 ## 📌 Problem Links
