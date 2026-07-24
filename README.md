@@ -110,7 +110,7 @@ Commitment: Solve at least one DSA problem **Daily** in C++
 | 92  | Reverse Only Letters                                        | Two Pointers, String                                | Easy       |
 | 93  | Remove Outermost Parentheses                                | String                                              | Easy       |
 | 94  | Determine if Two Strings Are Close                          | Hash Table, String, Sorting, Counting               | Medium     |
-
+| 94  |  Merge Strings Alternately                                  | Two Pointers, String                                | Easy       |
 
 ## 📌 Problem Links
 
